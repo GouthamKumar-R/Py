@@ -1,0 +1,1471 @@
+Age,BusinessTravel,Department,EducationField,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobSatisfaction,MaritalStatus,MonthlyIncome,OverTime,TotalWorkingYears,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,DistanceFromHome,Attrition
+41,Travel_Rarely,Sales,Life Sciences,B,Female,C,B,D,Single,5993,Yes,8,A,6,4,0,5,1,Yes
+49,Travel_Frequently,Research & Development,Life Sciences,C,Male,B,B,B,Married,5130,No,10,C,10,7,1,7,8,No
+37,Travel_Rarely,Research & Development,Other,D,Male,B,A,C,Single,2090,Yes,7,C,0,0,0,0,2,Yes
+33,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,A,C,Married,2909,Yes,8,C,8,7,3,0,3,No
+27,Travel_Rarely,Research & Development,Medical,A,Male,C,A,B,Married,3468,No,6,C,2,2,2,2,2,No
+32,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,A,D,Single,3068,No,8,B,7,7,3,6,2,No
+59,Travel_Rarely,Research & Development,Medical,C,Female,D,A,A,Married,2670,Yes,12,B,1,0,0,0,3,No
+30,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,C,Divorced,2693,No,1,C,1,0,0,0,24,No
+38,Travel_Frequently,Research & Development,Life Sciences,D,Male,B,C,C,Single,9526,No,10,C,9,7,1,8,23,No
+36,Travel_Rarely,Research & Development,Medical,C,Male,C,B,C,Married,5237,No,17,B,7,7,7,7,27,No
+35,Travel_Rarely,Research & Development,Medical,A,Male,D,A,B,Married,2426,No,6,C,5,4,0,3,16,No
+29,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,B,C,Single,4193,Yes,10,C,9,5,0,8,15,No
+31,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,C,Divorced,2911,No,5,B,5,2,4,3,26,No
+34,Travel_Rarely,Research & Development,Medical,B,Male,C,A,D,Divorced,2661,No,3,C,2,2,1,2,19,No
+28,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,A,C,Single,2028,Yes,6,C,4,2,0,3,24,Yes
+29,Travel_Rarely,Research & Development,Life Sciences,B,Female,D,C,A,Divorced,9980,No,10,C,10,9,8,8,21,No
+32,Travel_Rarely,Research & Development,Life Sciences,A,Male,D,A,B,Divorced,3298,Yes,7,B,6,2,0,5,5,No
+22,Non-Travel,Research & Development,Medical,D,Male,D,A,D,Divorced,2935,Yes,1,B,1,0,0,0,16,No
+53,Travel_Rarely,Sales,Life Sciences,A,Female,B,D,D,Married,15427,No,31,C,25,8,3,7,2,No
+38,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,D,Single,3944,Yes,6,C,3,2,1,2,2,No
+24,Non-Travel,Research & Development,Other,A,Female,D,B,C,Divorced,4011,No,5,B,4,2,1,3,11,No
+36,Travel_Rarely,Sales,Life Sciences,C,Male,B,A,A,Single,3407,No,10,C,5,3,0,3,9,Yes
+34,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,C,B,Single,11994,No,13,C,12,6,2,11,7,No
+21,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,D,Single,1232,No,0,C,0,0,0,0,15,No
+34,Travel_Rarely,Research & Development,Medical,B,Male,C,A,A,Single,2960,No,8,C,4,2,1,3,6,Yes
+53,Travel_Rarely,Research & Development,Other,C,Female,C,D,C,Divorced,19094,No,26,B,14,13,4,8,5,No
+32,Travel_Frequently,Research & Development,Life Sciences,B,Female,A,A,A,Single,3919,Yes,10,C,10,2,6,7,16,Yes
+42,Travel_Rarely,Sales,Marketing,C,Male,C,B,B,Married,6825,No,10,C,9,7,4,2,8,No
+44,Travel_Rarely,Research & Development,Medical,A,Female,B,C,D,Married,10248,No,24,C,22,6,5,17,7,No
+46,Travel_Rarely,Sales,Marketing,B,Female,C,D,A,Single,18947,No,22,B,2,2,2,1,2,No
+33,Travel_Rarely,Research & Development,Medical,C,Male,C,A,D,Single,2496,No,7,C,1,1,0,0,2,No
+44,Travel_Rarely,Research & Development,Other,D,Male,C,B,D,Married,6465,Yes,9,D,4,2,1,3,10,No
+30,Travel_Rarely,Research & Development,Medical,D,Male,B,A,C,Single,2206,No,10,C,10,0,1,8,9,No
+39,Travel_Rarely,Sales,Technical Degree,D,Male,C,B,D,Married,2086,No,19,D,1,0,0,0,5,Yes
+24,Travel_Rarely,Research & Development,Medical,B,Male,C,A,D,Married,2293,Yes,6,B,2,0,2,0,1,Yes
+43,Travel_Rarely,Research & Development,Medical,D,Female,D,A,C,Divorced,2645,No,6,B,5,3,1,4,2,No
+50,Travel_Rarely,Sales,Marketing,A,Male,B,A,C,Married,2683,Yes,3,C,3,2,0,2,3,Yes
+35,Travel_Rarely,Sales,Marketing,D,Female,C,A,D,Married,2014,No,2,C,2,2,2,2,2,No
+36,Travel_Rarely,Research & Development,Life Sciences,B,Female,B,A,A,Married,3419,Yes,6,D,1,1,0,0,5,No
+33,Travel_Frequently,Sales,Life Sciences,C,Female,D,B,A,Married,5376,No,10,C,5,3,1,3,1,No
+35,Travel_Rarely,Research & Development,Other,C,Male,C,A,D,Divorced,1951,No,1,C,1,0,0,0,4,No
+27,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,A,A,Divorced,2341,No,1,C,1,0,0,0,2,No
+26,Travel_Rarely,Research & Development,Life Sciences,A,Male,A,A,C,Single,2293,No,1,B,1,0,0,1,25,Yes
+27,Travel_Frequently,Sales,Life Sciences,D,Male,C,C,C,Single,8726,No,9,C,9,8,1,7,8,No
+30,Travel_Frequently,Research & Development,Medical,C,Female,C,B,D,Single,4011,No,12,C,12,8,3,7,1,No
+41,Travel_Rarely,Research & Development,Technical Degree,B,Female,C,D,C,Married,19545,No,23,C,22,15,15,8,12,Yes
+34,Non-Travel,Sales,Marketing,B,Male,C,B,C,Single,4568,No,10,C,9,5,8,7,23,No
+37,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,B,Married,3022,No,8,C,1,0,0,0,19,No
+46,Travel_Frequently,Sales,Marketing,A,Male,C,B,D,Single,5772,Yes,14,C,9,6,0,8,5,No
+35,Travel_Rarely,Research & Development,Life Sciences,D,Male,D,A,D,Married,2269,No,1,C,1,0,0,1,8,No
+48,Travel_Rarely,Research & Development,Life Sciences,A,Male,B,C,C,Single,5381,Yes,23,C,1,0,0,0,1,Yes
+28,Travel_Rarely,Research & Development,Technical Degree,C,Male,C,A,C,Single,3441,Yes,2,B,2,2,2,2,5,Yes
+44,Travel_Rarely,Sales,Marketing,B,Female,C,B,A,Divorced,5454,Yes,9,B,4,3,1,3,1,No
+35,Non-Travel,Research & Development,Medical,C,Male,B,C,A,Married,9884,Yes,10,C,4,0,2,3,11,No
+26,Travel_Rarely,Sales,Marketing,C,Female,B,B,D,Married,4157,Yes,5,B,2,2,0,0,23,No
+33,Travel_Frequently,Research & Development,Life Sciences,A,Female,C,C,D,Single,13458,Yes,15,C,15,14,8,12,1,No
+35,Travel_Frequently,Sales,Life Sciences,B,Male,C,C,A,Married,9069,No,9,B,9,8,1,8,18,No
+35,Travel_Rarely,Research & Development,Medical,C,Female,C,A,A,Married,4014,Yes,4,C,2,2,2,2,23,No
+31,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,D,Divorced,5915,No,10,B,7,7,1,7,7,No
+37,Travel_Rarely,Research & Development,Life Sciences,A,Male,B,B,C,Divorced,5993,No,7,D,7,5,0,7,1,No
+32,Travel_Rarely,Research & Development,Medical,A,Male,C,B,D,Married,6162,Yes,9,C,9,8,7,8,1,No
+38,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,B,D,Single,2406,No,10,C,10,3,9,9,29,No
+50,Travel_Rarely,Research & Development,Medical,B,Female,B,D,C,Divorced,18740,Yes,29,B,27,3,13,8,7,No
+59,Travel_Rarely,Sales,Life Sciences,A,Female,C,C,A,Single,7637,No,28,B,21,16,7,9,25,No
+36,Travel_Rarely,Research & Development,Technical Degree,C,Female,C,C,C,Divorced,10096,No,17,C,17,14,12,8,8,No
+55,Travel_Rarely,Research & Development,Medical,D,Female,C,D,C,Divorced,14756,Yes,21,C,5,0,0,2,8,No
+36,Travel_Frequently,Research & Development,Life Sciences,B,Male,B,B,B,Single,6499,No,6,C,6,5,0,3,11,No
+45,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,C,A,Divorced,9724,No,25,C,1,0,0,0,7,No
+35,Travel_Frequently,Research & Development,Medical,B,Male,C,A,A,Married,2194,No,5,B,3,2,1,2,1,No
+36,Travel_Rarely,Research & Development,Medical,D,Male,B,A,C,Married,3388,Yes,2,B,1,0,0,0,9,Yes
+59,Travel_Frequently,Sales,Life Sciences,A,Female,B,B,C,Single,5473,No,20,B,4,3,1,3,1,No
+29,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,B,Married,2703,No,6,C,5,4,0,4,2,No
+31,Travel_Rarely,Research & Development,Medical,C,Male,C,A,B,Single,2501,No,1,C,1,1,1,0,1,No
+32,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,B,B,Married,6220,No,10,C,10,4,0,9,1,No
+36,Travel_Rarely,Research & Development,Life Sciences,B,Female,D,A,D,Married,3038,No,5,C,1,0,0,0,6,No
+31,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,B,D,Single,4424,No,11,C,11,7,1,8,8,No
+35,Travel_Rarely,Sales,Marketing,C,Male,B,B,A,Single,4312,No,16,C,15,13,2,8,1,No
+45,Travel_Rarely,Research & Development,Other,D,Male,C,C,A,Married,13245,Yes,17,D,0,0,0,0,6,No
+37,Travel_Rarely,Research & Development,Medical,A,Male,C,C,C,Single,13664,No,16,D,5,2,0,2,7,No
+46,Travel_Rarely,Human Resources,Medical,B,Male,C,B,B,Divorced,5021,Yes,16,C,4,2,0,2,5,No
+30,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,B,D,Married,5126,Yes,10,B,10,8,3,0,1,No
+35,Travel_Rarely,Research & Development,Medical,B,Male,B,A,C,Single,2859,No,6,C,6,4,0,4,1,No
+55,Travel_Rarely,Sales,Life Sciences,A,Male,C,C,D,Married,10239,No,24,C,1,0,1,0,1,No
+38,Non-Travel,Research & Development,Medical,B,Female,A,B,D,Divorced,5329,Yes,17,C,13,11,1,9,6,No
+34,Travel_Rarely,Research & Development,Medical,A,Male,C,B,B,Married,4325,No,5,C,5,2,1,3,1,No
+56,Travel_Rarely,Research & Development,Life Sciences,D,Male,A,C,D,Single,7260,No,37,B,6,4,0,2,7,No
+23,Travel_Rarely,Sales,Technical Degree,C,Male,C,A,A,Divorced,2322,No,3,C,0,0,0,0,2,No
+51,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,D,Married,2075,No,10,C,4,2,0,3,9,No
+30,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,B,D,Married,4152,No,11,C,11,10,10,8,2,No
+46,Travel_Rarely,Sales,Medical,C,Male,B,C,D,Single,9619,No,9,C,9,8,4,7,9,Yes
+40,Travel_Frequently,Research & Development,Life Sciences,C,Male,B,D,B,Married,13503,No,22,B,22,3,11,11,1,No
+51,Travel_Rarely,Sales,Marketing,C,Male,C,B,D,Single,5441,Yes,11,A,10,7,1,0,21,No
+30,Travel_Rarely,Sales,Medical,C,Female,B,B,B,Divorced,5209,Yes,11,B,11,8,2,7,4,No
+46,Travel_Frequently,Research & Development,Medical,C,Male,B,C,A,Married,10673,Yes,21,B,10,9,9,5,1,No
+32,Travel_Rarely,Sales,Medical,B,Male,C,B,C,Single,5010,No,12,C,11,8,5,7,6,No
+54,Travel_Rarely,Research & Development,Technical Degree,A,Female,C,C,C,Married,13549,No,16,A,4,3,0,3,2,No
+24,Travel_Rarely,Sales,Other,A,Female,C,B,C,Married,4999,No,4,B,3,2,0,2,3,No
+28,Non-Travel,Sales,Medical,B,Male,C,B,C,Married,4221,No,5,D,5,4,0,4,4,No
+58,Travel_Rarely,Sales,Medical,D,Male,C,D,C,Single,13872,No,38,B,37,10,1,8,10,No
+44,Non-Travel,Research & Development,Medical,B,Male,C,B,B,Married,2042,No,17,D,3,2,1,2,23,No
+37,Travel_Rarely,Human Resources,Human Resources,C,Male,C,A,A,Divorced,2073,Yes,7,C,3,2,0,2,6,Yes
+32,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,A,Single,2956,No,1,C,1,0,0,0,1,No
+20,Travel_Frequently,Research & Development,Life Sciences,D,Female,B,A,D,Single,2926,Yes,1,C,1,0,1,0,6,Yes
+34,Travel_Rarely,Research & Development,Other,A,Female,C,B,C,Single,4809,No,16,C,16,13,2,10,6,No
+37,Non-Travel,Research & Development,Life Sciences,C,Male,B,B,D,Divorced,5163,No,17,D,1,0,0,0,2,No
+59,Non-Travel,Human Resources,Human Resources,C,Female,B,D,D,Married,18844,No,30,C,3,2,2,2,2,No
+50,Travel_Frequently,Research & Development,Life Sciences,A,Female,C,D,B,Married,18172,Yes,28,B,8,3,0,7,1,No
+25,Travel_Rarely,Sales,Marketing,C,Male,B,B,C,Single,5744,Yes,6,C,6,4,0,3,5,Yes
+25,Travel_Rarely,Research & Development,Medical,D,Male,B,A,D,Married,2889,No,2,C,2,2,2,1,7,No
+22,Travel_Rarely,Research & Development,Medical,B,Female,C,A,D,Single,2871,No,1,C,0,0,0,0,15,No
+51,Travel_Frequently,Research & Development,Medical,A,Female,B,C,A,Single,7484,No,23,B,13,12,12,8,1,No
+34,Travel_Frequently,Research & Development,Life Sciences,A,Male,A,B,C,Single,6074,Yes,9,C,9,7,0,6,7,Yes
+54,Non-Travel,Human Resources,Human Resources,D,Female,D,D,D,Single,17328,Yes,23,C,5,3,4,4,26,No
+24,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,C,Married,2774,No,6,C,5,3,1,2,18,No
+34,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,B,B,Divorced,4505,No,12,C,1,0,0,0,6,No
+37,Travel_Rarely,Sales,Life Sciences,C,Male,C,C,D,Single,7428,No,12,C,5,3,1,3,3,No
+34,Travel_Rarely,Research & Development,Medical,C,Female,B,C,A,Single,11631,No,14,C,11,10,5,8,5,No
+36,Travel_Frequently,Sales,Technical Degree,B,Female,C,C,D,Married,9738,No,10,C,9,7,2,8,11,No
+36,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,A,D,Divorced,2835,No,7,C,1,0,0,0,3,No
+43,Travel_Frequently,Sales,Life Sciences,C,Male,C,D,D,Married,16959,Yes,25,D,25,12,4,12,26,No
+30,Travel_Frequently,Research & Development,Life Sciences,A,Male,A,A,C,Divorced,2613,No,10,B,10,7,0,9,23,No
+33,Non-Travel,Sales,Marketing,C,Male,C,B,B,Married,6146,No,8,D,7,7,0,7,22,No
+56,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,A,B,Married,4963,Yes,7,C,5,4,4,3,14,Yes
+51,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,D,C,Single,19537,No,23,C,20,18,15,15,6,No
+31,Travel_Rarely,Sales,Life Sciences,B,Male,A,B,C,Married,6172,Yes,12,B,7,7,7,7,6,Yes
+26,Travel_Rarely,Research & Development,Other,C,Female,B,A,B,Married,2368,No,5,B,5,4,4,3,6,No
+58,Travel_Rarely,Research & Development,Medical,D,Female,C,C,D,Married,10312,No,40,B,40,10,15,6,23,Yes
+19,Travel_Rarely,Sales,Marketing,D,Male,C,A,C,Single,1675,Yes,0,B,0,0,0,0,22,Yes
+22,Travel_Rarely,Research & Development,Technical Degree,C,Male,C,A,D,Married,2523,No,3,C,2,1,2,1,2,No
+49,Travel_Rarely,Research & Development,Medical,C,Female,C,B,A,Married,6567,No,16,B,15,11,5,11,20,No
+43,Travel_Frequently,Research & Development,Medical,B,Female,D,A,C,Single,4739,No,18,C,3,2,1,2,28,No
+50,Travel_Frequently,Sales,Marketing,C,Female,C,C,D,Single,9208,No,16,C,2,2,2,1,12,No
+31,Travel_Rarely,Sales,Life Sciences,B,Female,A,B,C,Married,4559,Yes,4,C,2,2,2,2,20,Yes
+41,Travel_Rarely,Sales,Life Sciences,C,Male,C,C,C,Divorced,8189,Yes,12,C,9,7,0,7,9,No
+26,Travel_Rarely,Human Resources,Life Sciences,C,Female,C,A,C,Married,2942,No,8,C,8,7,5,7,25,No
+36,Travel_Rarely,Research & Development,Medical,B,Male,C,B,B,Divorced,4941,No,7,C,3,2,0,1,6,No
+51,Travel_Frequently,Research & Development,Life Sciences,A,Male,A,C,D,Single,10650,No,18,C,4,2,0,3,8,Yes
+39,Travel_Rarely,Sales,Life Sciences,D,Female,B,B,C,Married,5902,No,17,D,15,11,5,9,4,No
+25,Travel_Rarely,Sales,Life Sciences,A,Male,B,B,C,Married,8639,No,6,C,2,2,2,2,28,No
+30,Travel_Rarely,Human Resources,Human Resources,C,Male,C,B,D,Married,6347,Yes,12,A,11,9,4,7,9,No
+32,Travel_Rarely,Research & Development,Medical,A,Female,C,A,A,Single,4200,No,10,D,5,4,0,4,9,Yes
+45,Travel_Rarely,Research & Development,Medical,C,Male,C,A,D,Single,3452,No,9,B,6,5,0,3,29,No
+38,Travel_Rarely,Research & Development,Technical Degree,D,Female,C,B,C,Single,4317,Yes,19,C,3,2,2,2,3,No
+30,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,A,C,Single,2632,No,5,B,5,4,0,4,18,No
+32,Travel_Frequently,Sales,Medical,D,Male,A,B,D,Divorced,4668,No,9,D,8,7,0,7,9,No
+30,Travel_Rarely,Research & Development,Technical Degree,D,Female,C,A,A,Divorced,3204,No,8,C,3,2,2,2,5,No
+30,Travel_Rarely,Research & Development,Medical,B,Male,B,A,D,Single,2720,No,6,C,5,3,1,2,2,No
+41,Travel_Frequently,Research & Development,Life Sciences,D,Male,B,D,A,Divorced,17181,No,21,B,7,6,7,7,10,No
+41,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,A,Married,2238,No,7,C,5,0,1,4,9,No
+19,Travel_Rarely,Research & Development,Medical,B,Female,C,A,B,Single,1483,No,1,C,1,0,0,0,3,No
+40,Travel_Frequently,Research & Development,Medical,B,Female,C,B,B,Divorced,5605,No,20,C,20,7,2,13,26,No
+35,Travel_Rarely,Sales,Marketing,C,Male,C,C,B,Married,7295,No,10,C,10,8,0,6,1,No
+53,Travel_Rarely,Sales,Marketing,B,Male,C,B,C,Married,2306,Yes,13,A,7,7,4,5,6,No
+45,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,B,B,Divorced,2348,No,20,A,17,9,0,15,9,No
+32,Travel_Frequently,Sales,Marketing,B,Female,C,C,D,Single,8998,No,9,C,9,8,3,7,8,No
+29,Non-Travel,Research & Development,Technical Degree,D,Male,C,B,C,Married,4319,No,10,C,10,7,0,9,1,No
+51,Travel_Rarely,Research & Development,Medical,B,Male,B,B,C,Married,6132,No,10,C,1,0,0,0,7,No
+58,Travel_Rarely,Research & Development,Medical,B,Female,B,A,B,Married,3346,Yes,9,B,1,0,0,0,9,No
+40,Travel_Rarely,Sales,Marketing,C,Male,B,C,D,Married,10855,No,15,B,12,11,2,11,4,No
+34,Travel_Frequently,Sales,Marketing,C,Female,C,A,C,Married,2231,No,6,C,4,3,1,2,2,No
+22,Travel_Rarely,Research & Development,Medical,C,Male,C,A,D,Married,2323,No,2,C,2,2,2,2,19,No
+27,Non-Travel,Research & Development,Medical,D,Male,C,A,B,Divorced,2024,No,6,A,2,2,2,2,9,No
+28,Travel_Rarely,Research & Development,Medical,C,Male,C,A,D,Married,2713,No,5,A,5,2,0,2,21,No
+57,Travel_Rarely,Research & Development,Life Sciences,C,Male,D,C,D,Divorced,9439,Yes,12,A,5,3,1,4,24,No
+27,Non-Travel,Research & Development,Medical,C,Male,B,A,C,Divorced,2566,Yes,1,B,1,1,0,1,3,No
+50,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,D,B,Single,19926,No,21,C,5,4,4,4,11,No
+41,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,C,Divorced,2451,No,13,C,9,8,1,8,14,No
+30,Travel_Rarely,Sales,Life Sciences,B,Female,C,C,D,Married,9419,No,12,C,10,9,7,4,5,No
+38,Travel_Rarely,Sales,Life Sciences,A,Female,B,B,D,Single,8686,No,12,D,8,3,0,7,1,No
+32,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,C,Single,3038,No,8,C,5,4,1,4,6,No
+27,Travel_Rarely,Research & Development,Technical Degree,C,Male,C,A,B,Married,3058,Yes,6,B,5,2,1,1,17,No
+19,Travel_Frequently,Sales,Technical Degree,C,Female,A,A,A,Single,2325,No,1,D,0,0,0,0,1,Yes
+36,Travel_Frequently,Research & Development,Medical,D,Male,C,A,B,Single,2088,No,13,B,8,7,7,2,3,No
+30,Non-Travel,Research & Development,Medical,C,Male,C,B,A,Divorced,3072,No,12,C,12,9,6,10,9,No
+45,Travel_Rarely,Sales,Life Sciences,C,Female,C,B,A,Divorced,5006,Yes,9,D,5,4,0,3,4,No
+56,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,A,A,Divorced,4257,Yes,19,C,2,2,2,2,8,No
+33,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,D,Single,2500,No,4,D,3,1,0,2,2,No
+19,Travel_Rarely,Research & Development,Life Sciences,B,Male,B,A,D,Single,1102,No,1,B,1,0,1,0,2,Yes
+46,Travel_Rarely,Sales,Marketing,B,Female,C,C,A,Divorced,10453,No,24,C,24,13,15,7,1,No
+38,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,A,D,Single,2288,No,2,C,2,2,2,1,9,No
+31,Travel_Rarely,Research & Development,Medical,C,Female,C,A,D,Married,3929,Yes,7,C,4,2,0,2,12,No
+34,Travel_Rarely,Research & Development,Medical,D,Female,C,A,B,Single,2311,No,9,C,3,2,1,2,27,No
+41,Travel_Rarely,Sales,Marketing,B,Female,C,A,B,Single,3140,Yes,4,B,4,3,0,2,20,Yes
+50,Travel_Rarely,Research & Development,Medical,C,Male,B,A,C,Married,3690,No,5,B,3,2,0,2,1,No
+53,Travel_Rarely,Research & Development,Medical,D,Female,D,B,A,Divorced,4450,No,5,C,4,2,1,3,13,No
+33,Travel_Rarely,Research & Development,Medical,D,Female,C,A,B,Married,2756,No,8,C,8,7,1,6,14,No
+40,Travel_Rarely,Research & Development,Medical,D,Female,C,D,C,Married,19033,No,21,C,20,8,9,9,4,No
+55,Travel_Rarely,Research & Development,Medical,C,Male,D,D,B,Single,18722,No,36,C,24,15,2,15,14,No
+34,Travel_Frequently,Research & Development,Life Sciences,D,Male,B,B,C,Married,9547,No,10,B,10,9,1,9,2,No
+51,Travel_Rarely,Research & Development,Medical,D,Female,C,D,B,Single,13734,No,21,C,7,7,1,0,3,No
+52,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,D,C,Married,19999,No,34,C,33,18,11,9,1,No
+27,Travel_Rarely,Research & Development,Medical,D,Female,C,A,B,Single,2279,No,7,B,7,7,0,3,9,No
+35,Travel_Rarely,Research & Development,Life Sciences,B,Male,B,B,C,Married,5916,Yes,8,C,1,0,0,1,23,Yes
+43,Non-Travel,Research & Development,Medical,D,Male,D,A,D,Divorced,2089,No,7,D,5,4,2,2,7,No
+45,Non-Travel,Research & Development,Medical,A,Male,B,D,D,Married,16792,No,22,C,20,8,11,8,2,No
+37,Travel_Rarely,Research & Development,Life Sciences,B,Male,D,A,A,Married,3564,Yes,8,B,8,7,1,7,21,No
+35,Travel_Frequently,Research & Development,Medical,B,Female,C,B,B,Single,4425,No,10,C,6,2,1,2,2,No
+42,Non-Travel,Research & Development,Medical,C,Female,C,B,C,Divorced,5265,No,11,C,5,3,0,2,21,No
+38,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,C,Married,6553,No,14,C,1,0,0,0,2,No
+38,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,B,D,Married,6261,No,9,A,7,7,1,7,29,No
+27,Travel_Frequently,Research & Development,Technical Degree,C,Male,B,B,A,Married,4298,No,6,C,2,2,2,0,1,No
+49,Non-Travel,Research & Development,Life Sciences,D,Male,C,B,D,Divorced,6804,Yes,7,C,7,7,1,7,18,No
+34,Travel_Frequently,Research & Development,Medical,D,Male,C,A,C,Divorced,3815,Yes,5,D,5,3,2,0,10,No
+40,Travel_Rarely,Research & Development,Medical,C,Male,C,B,D,Married,2741,Yes,15,D,7,2,3,7,19,No
+38,Travel_Rarely,Research & Development,Medical,B,Male,C,B,A,Married,6673,Yes,17,C,1,0,0,0,29,Yes
+29,Travel_Rarely,Sales,Marketing,B,Female,C,C,D,Married,7639,No,10,B,10,4,1,9,27,Yes
+22,Travel_Rarely,Research & Development,Life Sciences,D,Male,D,A,B,Divorced,2328,Yes,4,B,4,2,2,2,5,No
+36,Travel_Frequently,Research & Development,Medical,B,Female,C,A,D,Single,2153,No,8,C,8,1,1,7,18,No
+40,Non-Travel,Research & Development,Life Sciences,D,Male,B,B,D,Married,4876,No,5,A,3,2,0,2,9,No
+46,Travel_Rarely,Research & Development,Medical,D,Male,C,C,A,Divorced,9396,No,17,C,4,2,0,3,1,No
+32,Travel_Rarely,Sales,Medical,D,Male,A,C,D,Married,10400,No,14,B,14,8,9,8,4,Yes
+30,Non-Travel,Research & Development,Life Sciences,C,Male,B,C,C,Single,8474,No,12,C,11,8,5,8,1,No
+27,Travel_Frequently,Sales,Life Sciences,D,Female,C,B,C,Single,9981,No,7,C,7,7,0,7,20,No
+51,Travel_Rarely,Research & Development,Life Sciences,B,Male,B,C,B,Married,12490,No,16,A,10,9,4,7,8,No
+30,Travel_Rarely,Research & Development,Technical Degree,D,Female,C,A,A,Single,2657,Yes,8,C,5,2,0,4,3,Yes
+41,Travel_Rarely,Sales,Life Sciences,D,Female,C,C,D,Single,13591,Yes,16,C,1,0,0,0,6,No
+30,Travel_Frequently,Sales,Marketing,C,Female,B,B,A,Single,6696,No,9,B,6,3,0,1,26,Yes
+29,Travel_Rarely,Research & Development,Technical Degree,C,Male,C,A,C,Single,2058,No,7,B,6,2,1,5,1,Yes
+45,Non-Travel,Sales,Medical,D,Female,B,C,D,Single,8865,No,23,C,19,7,12,8,6,No
+54,Travel_Rarely,Sales,Marketing,D,Female,C,B,A,Married,5940,No,16,C,6,2,0,5,3,No
+36,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,B,Single,5914,No,16,D,13,11,3,7,5,No
+33,Travel_Rarely,Research & Development,Medical,C,Female,B,A,B,Married,2622,No,7,C,3,2,1,1,4,No
+37,Travel_Frequently,Research & Development,Other,B,Male,C,C,D,Divorced,12185,Yes,10,C,10,8,0,7,11,No
+38,Travel_Rarely,Sales,Life Sciences,A,Male,C,C,C,Divorced,10609,No,17,B,16,10,5,13,3,No
+31,Non-Travel,Research & Development,Medical,C,Male,A,B,C,Married,4345,No,6,C,5,4,1,4,1,No
+59,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,A,D,Married,2177,No,7,C,1,0,0,0,3,No
+37,Travel_Frequently,Sales,Marketing,A,Male,C,A,D,Divorced,2793,No,13,C,9,8,5,8,4,No
+29,Travel_Frequently,Sales,Medical,B,Female,C,C,D,Married,7918,No,11,C,11,10,4,1,1,No
+35,Travel_Frequently,Sales,Marketing,C,Female,C,C,C,Single,8789,No,10,D,10,7,0,8,1,No
+29,Travel_Rarely,Research & Development,Medical,C,Male,B,A,D,Single,2389,Yes,4,B,4,3,0,1,18,Yes
+52,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,A,D,Single,3212,No,6,B,2,2,2,2,2,No
+42,Travel_Rarely,Research & Development,Technical Degree,C,Male,C,D,D,Married,19232,No,22,C,22,17,11,15,4,No
+59,Travel_Rarely,Human Resources,Medical,B,Male,C,A,C,Married,2267,No,7,B,2,2,2,2,6,No
+50,Travel_Rarely,Sales,Medical,D,Female,C,D,D,Divorced,19517,No,32,B,7,0,0,6,1,No
+33,Travel_Rarely,Research & Development,Medical,C,Male,C,A,D,Married,2436,Yes,8,A,5,4,0,4,14,Yes
+43,Travel_Rarely,Sales,Marketing,D,Female,C,D,D,Married,16064,Yes,22,C,17,13,1,9,16,No
+33,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,A,A,Married,2707,No,13,D,9,7,1,7,2,Yes
+52,Non-Travel,Sales,Life Sciences,A,Male,B,D,C,Single,19068,Yes,33,D,33,7,15,12,2,No
+32,Travel_Rarely,Sales,Life Sciences,C,Female,C,A,B,Married,3931,No,6,C,4,3,1,2,4,No
+32,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,A,C,Single,3730,Yes,4,A,3,2,1,2,1,Yes
+39,Travel_Rarely,Research & Development,Medical,C,Female,C,A,C,Divorced,2232,No,7,C,3,2,1,2,1,No
+32,Non-Travel,Sales,Marketing,C,Male,C,B,D,Married,4465,No,4,C,3,2,2,2,26,No
+41,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,B,A,Divorced,3072,No,17,B,1,0,0,0,19,No
+40,Travel_Rarely,Research & Development,Technical Degree,A,Male,C,B,D,Divorced,3319,No,9,C,9,8,4,7,24,No
+45,Travel_Rarely,Research & Development,Other,C,Male,D,D,D,Married,19202,No,25,C,24,0,1,7,1,No
+31,Travel_Frequently,Research & Development,Medical,B,Male,C,C,C,Divorced,13675,No,9,C,2,2,2,2,3,No
+33,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,A,D,Married,2911,No,2,B,2,2,0,2,5,No
+34,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,B,A,Married,5957,No,13,C,11,9,5,9,2,No
+37,Travel_Rarely,Research & Development,Medical,C,Female,B,A,A,Married,3920,No,17,B,3,1,0,2,1,No
+45,Travel_Frequently,Research & Development,Life Sciences,A,Male,D,B,C,Married,6434,No,9,C,3,2,0,2,7,No
+37,Travel_Frequently,Research & Development,Medical,A,Male,C,C,C,Divorced,10048,No,17,C,1,0,0,0,10,Yes
+39,Travel_Frequently,Research & Development,Technical Degree,C,Female,C,C,C,Single,10938,No,20,C,19,6,11,8,2,No
+29,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,D,Single,2340,No,6,C,6,5,1,5,15,No
+42,Travel_Rarely,Research & Development,Life Sciences,D,Female,D,B,A,Single,6545,Yes,10,C,3,2,0,2,17,No
+29,Travel_Rarely,Sales,Marketing,D,Male,C,B,D,Divorced,6931,No,10,C,3,2,0,2,20,No
+25,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,B,C,Married,4898,No,5,C,4,2,1,2,1,No
+42,Travel_Rarely,Research & Development,Medical,D,Female,B,A,A,Divorced,2593,Yes,10,C,9,6,7,8,2,No
+40,Travel_Rarely,Research & Development,Medical,A,Male,C,D,C,Divorced,19436,No,22,C,21,7,3,9,2,No
+51,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,D,Married,2723,No,1,B,1,0,0,0,1,No
+31,Travel_Frequently,Research & Development,Medical,C,Male,B,A,B,Single,3479,No,6,D,5,4,1,4,29,Yes
+32,Travel_Frequently,Research & Development,Life Sciences,B,Male,D,A,B,Married,2794,No,5,A,5,1,0,3,7,No
+38,Non-Travel,Sales,Life Sciences,D,Male,B,B,D,Married,5249,No,13,C,8,7,7,5,2,No
+32,Travel_Rarely,Research & Development,Technical Degree,D,Male,B,B,A,Single,2176,No,9,C,6,2,0,4,2,No
+46,Travel_Rarely,Sales,Technical Degree,C,Female,A,D,B,Married,16872,Yes,28,B,7,7,7,7,2,No
+28,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,C,Single,3485,No,5,A,0,0,0,0,2,Yes
+29,Travel_Rarely,Sales,Medical,A,Male,B,B,B,Married,6644,No,10,C,0,0,0,0,2,No
+31,Travel_Rarely,Research & Development,Medical,B,Male,B,B,D,Married,5582,No,10,C,9,0,7,8,23,No
+25,Non-Travel,Research & Development,Life Sciences,B,Male,D,B,A,Divorced,4000,No,6,C,6,3,1,5,5,No
+45,Travel_Rarely,Research & Development,Medical,C,Male,C,D,D,Married,13496,Yes,21,C,20,7,4,10,20,No
+36,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,D,Married,3210,No,16,C,15,13,10,11,6,No
+55,Travel_Rarely,Research & Development,Medical,D,Male,C,D,A,Single,19045,Yes,37,C,36,10,4,13,1,No
+47,Non-Travel,Research & Development,Life Sciences,A,Male,C,C,B,Married,11849,Yes,10,B,10,7,9,9,29,Yes
+28,Travel_Rarely,Research & Development,Medical,D,Male,C,A,D,Married,2070,No,5,B,5,2,0,4,9,No
+37,Travel_Rarely,Sales,Medical,C,Male,C,B,D,Married,6502,No,7,D,5,4,0,1,6,No
+21,Travel_Rarely,Research & Development,Medical,D,Male,B,A,C,Single,3230,No,3,D,3,2,1,0,3,No
+37,Non-Travel,Research & Development,Medical,A,Female,C,C,D,Divorced,13603,Yes,15,C,5,2,0,2,1,No
+35,Travel_Rarely,Research & Development,Life Sciences,B,Female,D,C,B,Divorced,11996,No,10,B,7,7,6,2,22,No
+38,Travel_Rarely,Sales,Medical,A,Female,D,B,A,Divorced,5605,Yes,8,C,8,0,7,7,7,No
+26,Travel_Frequently,Research & Development,Life Sciences,C,Female,C,B,B,Divorced,6397,No,6,A,6,5,1,4,1,No
+50,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,D,B,Divorced,19144,No,28,B,10,4,1,6,4,No
+53,Travel_Rarely,Research & Development,Medical,C,Male,C,D,C,Married,17584,Yes,21,B,5,3,1,3,3,No
+42,Travel_Rarely,Sales,Life Sciences,B,Male,C,B,C,Married,4907,No,20,C,20,16,11,6,1,No
+29,Travel_Frequently,Sales,Life Sciences,B,Male,C,B,D,Single,4554,No,10,B,10,7,0,9,2,No
+55,Travel_Rarely,Research & Development,Technical Degree,B,Male,C,B,D,Married,5415,Yes,12,C,10,7,0,8,20,No
+26,Travel_Frequently,Research & Development,Medical,A,Male,C,B,A,Married,4741,Yes,5,C,5,3,3,3,11,No
+37,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,A,D,Single,2115,No,17,C,17,12,5,7,1,No
+44,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,A,C,Divorced,3161,Yes,19,A,1,0,0,0,24,Yes
+38,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,D,Divorced,5745,No,10,C,2,2,1,2,23,No
+26,Travel_Rarely,Research & Development,Medical,A,Male,C,A,B,Divorced,2373,Yes,5,C,3,2,0,2,16,Yes
+28,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,A,D,Single,3310,No,5,C,5,3,0,2,8,No
+49,Travel_Frequently,Research & Development,Life Sciences,C,Female,C,D,A,Single,18665,Yes,22,C,3,2,1,2,10,No
+36,Travel_Rarely,Research & Development,Technical Degree,C,Male,C,B,B,Single,4485,No,10,C,8,0,7,7,3,No
+31,Travel_Frequently,Sales,Marketing,D,Female,C,A,B,Divorced,2789,No,2,B,2,2,2,2,5,No
+26,Travel_Rarely,Sales,Marketing,D,Male,B,B,D,Single,5828,Yes,8,C,8,7,7,4,4,Yes
+37,Travel_Frequently,Research & Development,Medical,B,Male,C,A,D,Married,2326,Yes,4,B,4,2,1,2,9,No
+42,Travel_Frequently,Sales,Marketing,C,Female,C,D,B,Married,13525,No,23,D,20,4,4,8,26,No
+18,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,C,Single,1420,No,0,C,0,0,0,0,3,Yes
+35,Travel_Rarely,Sales,Marketing,C,Male,C,C,B,Married,8020,No,12,B,11,9,6,9,16,No
+36,Travel_Frequently,Research & Development,Life Sciences,C,Male,D,A,D,Married,3688,No,4,C,1,0,0,0,18,No
+51,Travel_Rarely,Research & Development,Medical,D,Male,A,B,B,Divorced,5482,No,13,C,4,1,1,2,2,No
+41,Travel_Rarely,Sales,Life Sciences,D,Male,C,D,B,Single,16015,No,22,C,22,10,0,4,2,No
+18,Travel_Rarely,Sales,Medical,D,Female,B,A,C,Single,1200,No,0,C,0,0,0,0,10,No
+28,Travel_Rarely,Research & Development,Medical,B,Male,D,B,A,Single,5661,No,9,C,8,3,0,7,16,No
+31,Travel_Rarely,Sales,Technical Degree,B,Male,D,B,D,Married,6929,No,10,B,8,7,7,7,7,No
+39,Travel_Rarely,Research & Development,Medical,C,Male,D,C,D,Divorced,9613,No,19,B,18,10,3,7,1,No
+36,Non-Travel,Research & Development,Life Sciences,B,Female,C,B,B,Married,5674,No,11,C,9,8,0,8,24,No
+32,Travel_Rarely,Sales,Life Sciences,D,Male,B,B,C,Married,5484,No,13,B,13,8,4,8,7,No
+38,Travel_Rarely,Research & Development,Life Sciences,A,Female,B,C,B,Married,12061,No,19,C,10,8,0,1,25,No
+58,Non-Travel,Research & Development,Life Sciences,D,Male,A,B,C,Divorced,5660,Yes,12,C,5,3,1,2,1,No
+31,Travel_Rarely,Research & Development,Technical Degree,C,Male,C,A,D,Married,4821,Yes,6,C,5,2,0,3,5,No
+31,Travel_Rarely,Human Resources,Human Resources,A,Male,B,B,A,Married,6410,No,9,C,2,2,1,0,2,No
+45,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,C,A,Divorced,5210,No,24,C,24,9,9,11,7,No
+31,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,D,Divorced,2695,Yes,3,A,2,2,2,2,2,No
+33,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,C,B,Married,11878,No,12,C,10,6,8,8,5,No
+39,Travel_Rarely,Research & Development,Medical,C,Male,C,D,A,Married,17068,Yes,21,C,21,9,11,10,10,No
+43,Travel_Frequently,Research & Development,Life Sciences,C,Female,C,A,D,Single,2455,No,9,C,8,7,1,7,10,No
+49,Travel_Rarely,Research & Development,Technical Degree,C,Female,B,D,C,Single,13964,Yes,25,C,7,1,0,7,1,No
+52,Travel_Rarely,Research & Development,Medical,C,Male,B,B,B,Married,4941,No,11,B,8,2,7,7,8,Yes
+27,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,A,B,Single,2478,Yes,4,B,4,3,1,2,5,No
+32,Travel_Rarely,Sales,Technical Degree,C,Female,B,B,B,Married,5228,Yes,13,C,13,12,11,9,8,No
+27,Travel_Rarely,Sales,Life Sciences,D,Male,C,B,C,Single,4478,Yes,5,C,5,4,0,4,2,No
+31,Travel_Rarely,Sales,Marketing,D,Male,C,B,D,Divorced,7547,No,13,C,7,7,1,7,7,No
+32,Travel_Rarely,Research & Development,Medical,A,Female,D,B,D,Single,5055,No,10,B,7,7,0,7,2,No
+28,Travel_Rarely,Research & Development,Medical,A,Male,A,A,D,Married,3464,Yes,5,B,3,2,2,2,2,Yes
+30,Travel_Rarely,Research & Development,Medical,D,Female,C,B,D,Married,5775,No,11,C,10,8,1,9,28,No
+31,Travel_Frequently,Research & Development,Life Sciences,C,Female,B,C,C,Married,8943,No,10,C,10,9,8,9,7,No
+39,Travel_Frequently,Research & Development,Medical,C,Male,B,D,D,Married,19272,No,21,C,21,9,13,3,7,No
+39,Travel_Rarely,Sales,Medical,D,Female,C,B,C,Married,5238,Yes,12,B,1,0,0,0,3,Yes
+33,Travel_Frequently,Sales,Marketing,B,Male,B,B,D,Single,4682,No,9,B,7,7,0,1,10,No
+47,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,D,C,Married,18300,No,21,C,3,2,1,1,5,No
+43,Travel_Frequently,Research & Development,Life Sciences,C,Female,B,B,C,Divorced,5257,No,9,D,9,7,0,0,10,No
+27,Non-Travel,Sales,Marketing,C,Male,C,B,B,Married,6349,Yes,6,C,5,4,1,4,1,No
+54,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,B,C,Single,4869,No,20,B,4,3,0,3,20,No
+43,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,C,A,Married,9985,No,10,B,1,0,0,0,7,No
+45,Travel_Rarely,Research & Development,Other,D,Male,C,B,D,Married,3697,No,12,C,10,9,9,8,8,No
+40,Travel_Rarely,Sales,Medical,B,Male,A,B,D,Married,7457,Yes,6,B,4,3,0,2,1,No
+29,Travel_Rarely,Research & Development,Other,B,Male,A,A,A,Married,2119,Yes,7,B,7,7,0,7,8,Yes
+29,Travel_Rarely,Research & Development,Other,B,Male,B,A,D,Single,3983,No,4,C,3,2,2,2,9,No
+30,Travel_Rarely,Sales,Marketing,D,Female,B,B,C,Divorced,6118,No,10,C,10,9,1,2,5,No
+27,Travel_Rarely,Sales,Marketing,B,Female,C,B,B,Married,6214,No,8,C,8,7,0,7,8,No
+37,Travel_Rarely,Research & Development,Medical,D,Male,C,B,D,Divorced,6347,No,8,B,6,2,0,4,5,No
+38,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,C,D,Divorced,11510,Yes,12,C,11,10,2,9,15,No
+31,Travel_Rarely,Research & Development,Medical,C,Female,C,C,D,Single,7143,Yes,11,B,11,9,4,10,7,No
+29,Travel_Rarely,Sales,Marketing,D,Female,B,B,B,Divorced,8268,Yes,7,C,7,7,1,7,10,No
+35,Travel_Rarely,Research & Development,Technical Degree,C,Male,C,C,B,Single,8095,No,17,C,16,6,0,13,5,No
+23,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,D,Divorced,2904,No,4,B,4,2,0,2,26,No
+41,Travel_Rarely,Research & Development,Medical,D,Male,B,B,B,Single,6032,Yes,8,C,5,4,1,2,6,No
+47,Travel_Frequently,Sales,Medical,B,Male,C,B,C,Single,2976,No,5,C,0,0,0,0,4,No
+42,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,D,D,Single,15992,No,16,C,1,0,0,0,23,No
+29,Non-Travel,Sales,Life Sciences,D,Male,C,B,C,Married,4649,No,4,B,4,3,0,2,2,No
+42,Travel_Rarely,Human Resources,Technical Degree,C,Male,C,A,C,Divorced,2696,Yes,4,C,3,2,1,0,2,No
+32,Travel_Rarely,Research & Development,Medical,C,Female,C,A,B,Married,2370,No,8,C,8,0,0,7,2,No
+48,Travel_Rarely,Sales,Medical,A,Female,C,C,C,Married,12504,No,15,A,0,0,0,0,29,No
+37,Travel_Rarely,Research & Development,Medical,C,Male,D,B,A,Divorced,5974,Yes,13,C,7,7,6,7,6,No
+30,Non-Travel,Sales,Technical Degree,D,Female,C,B,C,Married,4736,Yes,4,D,2,2,2,2,25,No
+26,Travel_Rarely,Sales,Life Sciences,C,Male,C,B,C,Married,5296,No,8,C,8,7,7,7,1,No
+42,Travel_Rarely,Research & Development,Other,A,Male,B,B,D,Single,6781,No,14,C,1,0,0,0,2,No
+21,Travel_Frequently,Sales,Technical Degree,A,Female,B,A,B,Single,2174,Yes,3,C,3,2,1,2,1,Yes
+36,Non-Travel,Sales,Medical,D,Female,C,B,D,Single,6653,No,7,C,1,0,0,0,1,No
+36,Travel_Frequently,Sales,Medical,A,Male,B,C,D,Married,9699,No,16,C,13,9,1,12,3,No
+57,Travel_Rarely,Research & Development,Medical,D,Male,C,B,C,Married,6755,No,15,C,3,2,1,2,1,No
+40,Travel_Rarely,Research & Development,Life Sciences,D,Female,D,A,C,Married,2213,Yes,10,C,7,7,1,7,10,No
+21,Non-Travel,Sales,Medical,A,Male,C,A,D,Single,2610,No,3,B,3,2,2,2,9,No
+33,Travel_Rarely,Sales,Marketing,D,Female,C,A,C,Single,2851,Yes,1,C,1,0,0,0,5,Yes
+37,Travel_Rarely,Research & Development,Medical,C,Female,C,A,A,Married,3452,No,17,C,5,4,0,3,10,No
+46,Non-Travel,Research & Development,Medical,C,Female,C,B,C,Married,5258,No,7,D,1,0,0,0,7,No
+41,Travel_Frequently,Sales,Marketing,A,Male,C,B,B,Single,9355,No,8,C,8,7,7,7,4,Yes
+50,Travel_Rarely,Research & Development,Technical Degree,D,Male,B,C,D,Single,10496,No,20,C,4,3,1,3,10,No
+40,Travel_Rarely,Sales,Marketing,C,Male,B,B,C,Married,6380,Yes,8,C,6,4,1,0,22,Yes
+31,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,A,B,Single,2657,Yes,3,C,2,2,2,2,9,No
+21,Travel_Rarely,Sales,Life Sciences,C,Female,D,A,B,Single,2716,No,1,C,1,0,0,0,12,Yes
+29,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,D,Single,2201,No,6,C,3,2,1,2,23,No
+35,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,B,B,Single,6540,No,10,C,1,1,0,0,9,No
+27,Travel_Rarely,Research & Development,Medical,D,Male,C,A,B,Divorced,3816,No,5,C,5,2,0,4,1,No
+28,Travel_Rarely,Sales,Life Sciences,B,Male,C,B,D,Single,5253,No,7,C,7,5,0,7,9,No
+49,Travel_Rarely,Research & Development,Other,B,Male,B,C,C,Single,10965,No,26,C,5,2,0,0,7,No
+51,Travel_Rarely,Sales,Life Sciences,C,Female,C,B,D,Married,4936,No,18,B,7,7,0,7,14,No
+36,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,A,C,Married,2543,No,6,C,2,2,2,2,2,No
+34,Non-Travel,Sales,Marketing,A,Male,D,B,D,Single,5304,Yes,9,B,5,2,0,4,19,Yes
+55,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,D,D,Single,16659,Yes,30,C,5,4,1,2,2,No
+24,Travel_Rarely,Sales,Marketing,D,Female,C,B,C,Divorced,4260,Yes,5,D,5,2,0,3,10,No
+30,Travel_Rarely,Sales,Technical Degree,C,Male,C,A,B,Married,2476,No,1,C,1,0,0,0,2,No
+26,Travel_Frequently,Research & Development,Technical Degree,C,Male,C,A,A,Single,3102,No,7,C,6,4,0,4,3,Yes
+22,Travel_Rarely,Research & Development,Medical,A,Female,C,A,B,Married,2244,No,2,C,2,1,1,2,11,No
+36,Travel_Rarely,Sales,Medical,B,Male,B,C,C,Married,7596,No,10,C,10,9,9,0,2,No
+30,Travel_Frequently,Research & Development,Technical Degree,C,Male,C,A,D,Single,2285,Yes,3,C,1,0,0,0,4,Yes
+37,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,A,A,Divorced,3034,No,18,B,18,7,12,17,14,No
+40,Travel_Rarely,Sales,Marketing,D,Female,C,B,B,Divorced,5715,No,8,C,5,4,1,3,2,No
+42,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,A,A,Divorced,2576,No,8,C,5,2,1,2,1,No
+37,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,B,B,Single,4197,Yes,18,B,1,0,0,1,10,No
+43,Travel_Rarely,Research & Development,Life Sciences,A,Male,B,D,B,Divorced,14336,No,25,C,25,10,3,9,12,No
+40,Travel_Rarely,Research & Development,Medical,B,Female,B,B,C,Married,3448,No,20,C,1,0,0,0,2,No
+54,Travel_Rarely,Research & Development,Medical,A,Male,C,D,A,Married,19406,No,24,B,4,2,1,2,5,No
+34,Non-Travel,Sales,Marketing,C,Female,C,B,C,Married,6538,No,6,C,3,2,1,2,4,No
+31,Travel_Rarely,Research & Development,Medical,B,Female,C,B,A,Married,4306,No,13,A,13,10,3,12,7,No
+43,Travel_Frequently,Research & Development,Medical,D,Male,C,A,D,Married,2258,No,8,C,3,2,1,2,21,No
+43,Travel_Rarely,Research & Development,Other,C,Female,C,B,C,Divorced,4522,Yes,8,C,5,2,0,2,8,No
+25,Travel_Rarely,Sales,Life Sciences,B,Female,B,B,D,Single,4487,Yes,5,C,5,4,1,3,4,No
+37,Non-Travel,Research & Development,Medical,B,Female,C,B,C,Married,4449,Yes,15,C,13,11,10,7,25,No
+31,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,A,A,Married,2218,No,4,C,4,2,3,2,1,No
+39,Travel_Frequently,Research & Development,Life Sciences,B,Male,C,D,C,Divorced,19197,Yes,21,C,21,8,1,6,1,No
+56,Travel_Frequently,Sales,Life Sciences,C,Female,D,D,A,Married,13212,No,36,B,7,7,7,7,6,No
+30,Travel_Rarely,Sales,Technical Degree,B,Female,C,B,C,Single,6577,No,6,C,5,4,4,4,12,No
+41,Travel_Rarely,Sales,Marketing,B,Male,D,C,A,Married,8392,No,10,C,10,7,0,7,1,No
+28,Travel_Rarely,Research & Development,Medical,C,Male,C,B,A,Divorced,4558,No,10,C,10,0,1,8,17,No
+25,Travel_Rarely,Research & Development,Medical,A,Male,C,A,A,Married,4031,No,6,C,2,2,0,2,3,Yes
+52,Travel_Rarely,Research & Development,Medical,D,Male,B,C,C,Married,7969,Yes,28,C,5,4,0,4,3,No
+45,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,D,Married,2654,No,8,B,2,2,0,2,10,No
+52,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,D,D,Married,16555,No,31,A,5,2,1,4,4,No
+42,Travel_Frequently,Research & Development,Life Sciences,A,Female,C,B,C,Divorced,4556,No,19,C,5,4,0,2,29,No
+30,Travel_Rarely,Research & Development,Life Sciences,C,Female,A,B,D,Single,6091,No,11,C,5,4,0,2,2,No
+60,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,D,A,Married,19566,No,33,A,29,8,11,10,7,No
+46,Travel_Rarely,Research & Development,Medical,C,Female,C,B,C,Divorced,4810,No,19,B,10,7,0,8,18,No
+42,Travel_Frequently,Research & Development,Technical Degree,D,Female,B,B,D,Married,4523,No,7,D,6,5,0,4,28,No
+24,Travel_Rarely,Sales,Technical Degree,A,Female,C,A,B,Single,3202,Yes,6,C,5,3,1,4,1,Yes
+34,Travel_Frequently,Sales,Marketing,D,Female,A,A,C,Divorced,2351,No,3,B,2,2,1,0,6,Yes
+38,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,A,D,Married,1702,Yes,1,C,1,0,0,0,2,No
+40,Travel_Rarely,Sales,Life Sciences,C,Female,C,D,C,Married,18041,No,21,C,20,15,1,12,2,No
+26,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,A,D,Divorced,2886,No,3,A,3,2,0,2,23,No
+30,Non-Travel,Research & Development,Life Sciences,C,Male,C,A,D,Married,2097,No,9,A,5,3,1,4,3,No
+29,Travel_Rarely,Research & Development,Medical,B,Male,B,C,C,Married,11935,No,10,C,10,2,0,7,3,No
+29,Travel_Rarely,Research & Development,Technical Degree,C,Female,B,A,B,Married,2546,No,6,D,2,2,1,1,25,Yes
+19,Travel_Rarely,Human Resources,Technical Degree,A,Male,B,A,D,Single,2564,No,1,D,1,0,0,0,2,Yes
+30,Non-Travel,Sales,Other,C,Female,C,C,A,Married,8412,No,10,C,9,8,7,8,22,No
+57,Travel_Rarely,Sales,Marketing,A,Male,B,D,D,Divorced,14118,No,32,B,1,0,0,0,29,No
+50,Travel_Rarely,Research & Development,Life Sciences,B,Male,B,D,C,Married,17046,No,28,C,27,10,15,7,29,No
+30,Non-Travel,Research & Development,Medical,C,Female,C,A,D,Single,2564,No,12,B,11,7,6,7,2,No
+60,Travel_Frequently,Sales,Marketing,C,Female,B,C,A,Married,10266,No,22,D,18,13,13,11,28,No
+47,Travel_Rarely,Research & Development,Medical,A,Female,C,B,D,Divorced,5070,No,20,C,5,0,0,4,2,No
+46,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,D,C,Married,17861,No,26,A,3,2,0,1,2,No
+35,Travel_Rarely,Research & Development,Life Sciences,D,Male,A,A,C,Single,4230,No,6,C,5,4,4,3,22,No
+54,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,B,C,Single,3780,No,19,C,1,0,0,0,8,No
+34,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,A,C,Divorced,2768,No,14,C,7,3,5,7,2,No
+46,Travel_Rarely,Sales,Marketing,C,Female,B,C,D,Married,9071,Yes,15,C,3,2,1,2,10,No
+31,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,C,B,Divorced,10648,No,13,D,13,8,0,8,9,No
+33,Travel_Rarely,Research & Development,Medical,B,Male,C,C,C,Married,13610,Yes,15,D,7,6,7,7,15,Yes
+33,Travel_Rarely,Research & Development,Medical,A,Male,A,A,D,Divorced,3408,No,8,C,4,3,1,3,10,Yes
+30,Travel_Rarely,Sales,Marketing,D,Male,C,A,B,Single,2983,No,4,C,3,2,1,2,7,No
+35,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,C,C,Married,7632,Yes,10,C,8,7,0,0,16,No
+31,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,C,C,Married,9824,No,12,C,1,0,0,0,20,Yes
+34,Travel_Frequently,Human Resources,Human Resources,B,Female,C,C,A,Divorced,9950,Yes,11,C,3,2,0,2,23,Yes
+42,Travel_Frequently,Research & Development,Other,B,Male,C,A,C,Married,2093,No,8,C,2,2,2,0,5,No
+36,Non-Travel,Sales,Medical,B,Male,C,C,D,Single,9980,No,10,B,10,3,9,7,10,No
+22,Travel_Frequently,Research & Development,Technical Degree,C,Male,B,A,C,Single,3894,No,4,C,2,2,1,2,4,Yes
+48,Travel_Rarely,Sales,Marketing,B,Female,C,B,D,Married,4051,No,14,C,9,7,6,7,2,No
+55,Travel_Rarely,Sales,Life Sciences,A,Female,C,D,B,Single,16835,No,37,C,10,9,7,7,18,No
+41,Non-Travel,Sales,Life Sciences,D,Male,C,B,D,Single,6230,No,16,C,14,3,1,10,10,No
+35,Travel_Rarely,Sales,Marketing,B,Male,C,B,C,Married,4717,No,15,C,11,9,6,9,1,No
+40,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,D,C,Single,13237,No,22,C,20,6,5,13,6,No
+39,Travel_Frequently,Research & Development,Life Sciences,C,Female,C,A,C,Married,3755,No,8,C,8,3,0,7,8,No
+31,Travel_Rarely,Sales,Life Sciences,B,Male,C,B,D,Single,6582,Yes,10,D,6,5,0,5,2,No
+42,Travel_Rarely,Research & Development,Medical,D,Male,C,C,A,Married,7406,Yes,10,B,10,9,5,8,24,No
+45,Travel_Rarely,Sales,Other,D,Male,C,B,B,Married,4805,No,9,D,8,7,3,7,2,No
+26,Travel_Frequently,Human Resources,Life Sciences,B,Female,C,A,C,Divorced,2741,Yes,8,B,7,7,1,0,17,Yes
+29,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,B,D,Divorced,4262,No,8,D,3,2,1,2,19,No
+33,Travel_Rarely,Research & Development,Medical,A,Female,D,D,C,Divorced,16184,No,10,C,6,1,0,5,1,No
+31,Travel_Rarely,Sales,Life Sciences,C,Male,B,C,D,Divorced,11557,No,10,B,5,4,0,1,7,No
+18,Travel_Frequently,Sales,Marketing,B,Male,C,A,B,Single,1878,Yes,0,C,0,0,0,0,5,Yes
+40,Non-Travel,Sales,Other,C,Male,A,C,A,Divorced,10932,No,20,C,1,0,0,1,28,No
+41,Non-Travel,Research & Development,Other,A,Female,B,B,C,Single,6811,Yes,10,C,8,7,0,7,2,No
+26,Travel_Rarely,Sales,Medical,A,Male,C,B,C,Divorced,4306,No,8,C,0,0,0,0,29,No
+35,Travel_Rarely,Sales,Medical,A,Female,C,B,C,Single,4859,No,5,C,5,4,0,3,1,No
+34,Travel_Rarely,Sales,Life Sciences,D,Male,D,B,D,Single,5337,No,10,C,10,7,5,7,21,No
+26,Travel_Rarely,Research & Development,Technical Degree,C,Male,A,A,D,Single,2340,Yes,1,A,1,0,0,0,24,Yes
+37,Travel_Rarely,Research & Development,Technical Degree,B,Female,C,C,D,Single,7491,No,12,D,6,5,1,2,1,No
+46,Travel_Frequently,Research & Development,Medical,A,Female,C,C,C,Married,10527,No,28,B,2,2,1,2,18,No
+41,Travel_Rarely,Sales,Life Sciences,B,Female,C,D,A,Married,16595,No,22,C,18,16,11,8,2,No
+37,Non-Travel,Sales,Medical,A,Male,C,C,B,Divorced,8834,No,9,C,9,5,7,7,9,No
+52,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,B,A,Divorced,5577,Yes,18,C,10,9,6,9,6,No
+32,Non-Travel,Sales,Other,D,Male,D,B,C,Married,4707,No,6,C,4,2,1,2,11,Yes
+24,Travel_Frequently,Sales,Medical,D,Male,C,A,D,Married,2400,No,3,C,2,2,2,1,24,No
+38,Travel_Rarely,Research & Development,Medical,C,Female,C,B,C,Married,9824,No,18,C,1,0,0,0,10,No
+37,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,B,B,Married,6447,No,8,B,6,5,4,3,1,No
+49,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,D,C,Divorced,19502,Yes,31,C,31,9,0,9,18,No
+24,Travel_Rarely,Research & Development,Medical,B,Male,D,A,D,Married,2725,Yes,6,C,6,5,1,4,23,No
+26,Travel_Rarely,Sales,Marketing,A,Male,C,B,B,Married,6272,No,6,D,5,3,1,4,28,No
+24,Travel_Rarely,Research & Development,Other,D,Male,B,A,B,Married,2127,No,1,C,1,0,0,0,17,No
+50,Travel_Frequently,Human Resources,Medical,A,Male,C,D,B,Married,18200,No,32,C,32,5,10,7,3,No
+25,Travel_Rarely,Sales,Medical,B,Male,C,A,C,Married,2096,No,7,C,7,4,0,6,13,No
+24,Travel_Frequently,Research & Development,Life Sciences,A,Female,C,A,C,Married,2886,Yes,6,C,6,3,1,2,7,Yes
+30,Travel_Frequently,Sales,Life Sciences,B,Male,B,A,A,Married,2033,No,1,D,1,0,0,0,12,Yes
+34,Travel_Rarely,Research & Development,Life Sciences,B,Male,B,A,D,Married,3622,Yes,6,C,6,5,1,3,1,No
+31,Travel_Rarely,Sales,Medical,B,Male,C,B,A,Divorced,4233,No,9,A,3,1,1,2,13,Yes
+35,Travel_Rarely,Research & Development,Other,A,Male,B,B,D,Single,3681,No,9,C,3,2,0,2,25,No
+31,Travel_Rarely,Sales,Medical,A,Male,D,B,D,Divorced,5460,No,13,D,7,7,5,7,6,No
+27,Travel_Rarely,Research & Development,Medical,A,Female,B,A,C,Divorced,2187,No,6,B,5,3,0,3,6,No
+37,Travel_Rarely,Sales,Marketing,D,Male,C,B,C,Married,9602,Yes,17,B,3,0,1,0,2,No
+20,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,A,B,Single,2836,No,1,D,1,0,0,0,1,No
+42,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,B,D,Married,4089,No,10,C,10,2,2,2,2,No
+43,Travel_Rarely,Research & Development,Other,B,Male,B,D,D,Divorced,16627,Yes,21,B,1,0,0,0,6,No
+38,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,A,A,Single,2619,No,8,B,0,0,0,0,1,No
+43,Travel_Frequently,Research & Development,Medical,D,Male,C,B,C,Divorced,5679,Yes,10,C,8,7,4,7,9,No
+48,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,D,A,Married,15402,No,21,A,3,2,0,2,1,No
+44,Travel_Rarely,Human Resources,Life Sciences,A,Female,B,B,C,Single,5985,No,10,D,2,2,0,2,1,No
+34,Travel_Rarely,Sales,Technical Degree,C,Female,C,A,C,Divorced,2579,Yes,8,C,8,2,0,6,14,No
+27,Travel_Rarely,Sales,Marketing,C,Male,C,A,A,Divorced,3041,No,5,C,4,3,0,2,2,Yes
+21,Travel_Rarely,Sales,Technical Degree,C,Male,C,A,C,Single,3447,No,3,C,3,2,1,2,22,No
+44,Travel_Rarely,Research & Development,Other,D,Male,C,D,D,Married,19513,Yes,26,D,2,2,0,1,3,No
+22,Travel_Rarely,Research & Development,Medical,A,Male,C,A,C,Married,2773,No,3,C,2,2,2,2,6,No
+33,Travel_Rarely,Sales,Marketing,C,Male,C,B,C,Divorced,7104,No,6,C,5,0,1,2,8,No
+32,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,B,D,Married,6322,Yes,6,B,6,4,0,5,9,No
+30,Travel_Frequently,Research & Development,Medical,C,Female,C,A,C,Divorced,2083,No,1,C,1,0,0,0,3,No
+53,Travel_Rarely,Sales,Medical,D,Female,C,B,A,Single,8381,No,18,D,14,7,8,10,1,No
+34,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,D,Married,2691,No,10,B,10,9,8,8,1,No
+45,Travel_Frequently,Sales,Life Sciences,A,Female,C,B,A,Married,4286,No,5,C,1,1,0,0,26,Yes
+26,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,A,D,Married,2659,Yes,3,C,3,2,0,2,6,No
+37,Travel_Rarely,Research & Development,Other,C,Male,C,C,C,Married,9434,No,10,C,10,7,7,8,3,No
+29,Travel_Rarely,Sales,Medical,B,Female,C,B,C,Married,5561,No,6,B,6,0,1,2,3,No
+35,Travel_Rarely,Research & Development,Life Sciences,B,Male,A,B,D,Single,6646,No,17,C,17,11,11,8,6,No
+33,Travel_Frequently,Research & Development,Life Sciences,C,Male,C,B,D,Divorced,7725,No,15,A,13,11,4,7,6,No
+54,Travel_Rarely,Human Resources,Medical,C,Male,C,C,B,Married,10725,No,16,D,9,7,7,1,19,No
+36,Travel_Rarely,Research & Development,Medical,B,Male,B,B,B,Divorced,8847,Yes,13,C,3,2,0,2,9,No
+27,Travel_Rarely,Research & Development,Medical,A,Male,B,A,D,Single,2045,No,5,C,4,2,1,1,3,No
+20,Travel_Rarely,Research & Development,Medical,D,Male,C,A,C,Single,1009,Yes,1,C,1,0,1,1,10,Yes
+33,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,A,A,Single,3348,Yes,10,C,10,8,9,7,3,Yes
+35,Non-Travel,Research & Development,Life Sciences,C,Male,B,A,C,Married,1281,No,1,C,1,0,0,0,3,No
+23,Travel_Rarely,Research & Development,Medical,A,Male,D,A,A,Married,2819,No,5,D,3,2,0,2,4,No
+25,Travel_Rarely,Sales,Life Sciences,D,Male,D,B,B,Married,4851,No,4,C,3,2,1,2,8,No
+38,Travel_Rarely,Sales,Marketing,D,Female,B,B,D,Single,4028,No,8,C,7,7,0,5,7,No
+29,Travel_Frequently,Research & Development,Life Sciences,B,Male,A,A,D,Divorced,2720,No,10,C,10,7,2,8,1,No
+48,Travel_Rarely,Sales,Marketing,B,Male,D,B,B,Married,8120,No,12,C,2,2,2,2,2,No
+27,Travel_Frequently,Sales,Medical,D,Female,D,B,D,Divorced,4647,Yes,6,C,6,5,0,4,3,No
+37,Travel_Rarely,Research & Development,Life Sciences,D,Male,D,A,D,Single,4680,No,4,C,1,0,0,0,10,No
+50,Travel_Rarely,Research & Development,Medical,D,Male,D,A,C,Married,3221,Yes,20,C,20,8,3,8,28,No
+34,Travel_Rarely,Research & Development,Medical,D,Female,B,C,B,Single,8621,No,9,D,8,7,7,7,9,No
+24,Travel_Rarely,Sales,Life Sciences,A,Female,C,B,C,Single,4577,No,4,C,2,2,2,0,3,Yes
+39,Travel_Rarely,Research & Development,Technical Degree,D,Female,B,B,C,Single,4553,No,20,C,20,7,11,10,2,No
+32,Travel_Rarely,Sales,Marketing,D,Male,C,B,D,Single,5396,No,10,B,10,7,0,8,10,No
+50,Travel_Frequently,Sales,Technical Degree,B,Male,C,B,C,Married,6796,Yes,18,C,4,3,1,3,8,Yes
+38,Travel_Rarely,Research & Development,Life Sciences,B,Female,D,B,D,Single,7625,No,10,B,9,7,1,8,1,No
+27,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,C,A,Married,7412,No,9,C,9,7,0,7,1,No
+32,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,C,D,Single,11159,No,10,C,7,7,7,7,3,No
+47,Travel_Rarely,Sales,Marketing,D,Male,C,B,A,Single,4960,No,20,C,7,7,1,7,14,No
+40,Travel_Frequently,Sales,Life Sciences,D,Male,B,C,A,Married,10475,Yes,20,C,18,13,1,12,5,No
+53,Travel_Rarely,Research & Development,Life Sciences,C,Male,D,D,C,Married,14814,No,32,C,5,1,1,3,7,No
+41,Travel_Rarely,Human Resources,Human Resources,B,Male,B,D,D,Divorced,19141,No,23,B,21,6,12,6,10,No
+60,Travel_Rarely,Sales,Marketing,A,Male,C,B,A,Single,5405,No,10,C,2,2,2,2,16,No
+27,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,C,A,Divorced,8793,No,9,B,9,7,1,7,10,No
+41,Travel_Rarely,Human Resources,Human Resources,D,Male,B,D,C,Married,19189,No,22,C,22,7,2,10,1,No
+50,Travel_Rarely,Sales,Marketing,D,Male,C,A,B,Married,3875,No,4,C,2,2,2,2,8,No
+28,Travel_Rarely,Research & Development,Life Sciences,A,Female,A,A,B,Single,2216,Yes,10,C,7,7,3,7,1,Yes
+36,Non-Travel,Research & Development,Life Sciences,A,Female,D,C,A,Married,11713,No,10,C,8,7,0,5,8,No
+38,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,C,C,Single,7861,Yes,10,D,1,0,0,0,1,No
+44,Non-Travel,Research & Development,Medical,A,Male,A,A,C,Single,3708,No,9,C,5,2,1,4,24,No
+47,Travel_Frequently,Sales,Medical,D,Female,C,D,C,Divorced,13770,Yes,28,B,22,2,11,13,3,No
+30,Travel_Rarely,Sales,Marketing,C,Male,C,B,D,Divorced,5304,No,10,B,8,7,7,7,27,No
+29,Travel_Rarely,Sales,Life Sciences,C,Male,C,A,C,Single,2642,No,1,C,1,0,0,0,10,No
+42,Travel_Frequently,Research & Development,Medical,C,Male,D,A,C,Divorced,2759,Yes,7,C,2,2,2,2,19,Yes
+43,Travel_Frequently,Sales,Life Sciences,D,Male,B,B,D,Married,6804,No,7,C,2,2,2,2,15,No
+34,Travel_Rarely,Research & Development,Medical,B,Female,C,B,C,Single,6142,No,10,C,5,1,4,3,8,No
+23,Travel_Rarely,Research & Development,Medical,B,Male,C,A,A,Married,2500,No,5,D,4,3,0,2,9,No
+39,Travel_Rarely,Human Resources,Human Resources,C,Female,D,B,B,Married,6389,No,12,A,8,3,3,6,3,No
+56,Travel_Rarely,Research & Development,Medical,C,Male,C,D,D,Married,11103,No,30,B,10,7,1,1,9,No
+40,Travel_Rarely,Research & Development,Medical,D,Female,B,A,D,Single,2342,Yes,5,B,4,2,2,3,2,No
+27,Travel_Rarely,Research & Development,Medical,D,Female,B,B,A,Single,6811,No,9,A,7,6,0,7,7,No
+29,Travel_Rarely,Sales,Marketing,D,Male,C,A,B,Divorced,2297,No,2,C,2,2,2,2,10,No
+53,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,D,Single,2450,No,19,C,2,2,2,2,6,No
+35,Non-Travel,Research & Development,Life Sciences,D,Female,C,B,A,Divorced,5093,No,16,D,1,0,0,0,2,No
+32,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,B,D,Married,5309,No,10,C,10,8,4,7,24,No
+38,Travel_Rarely,Research & Development,Medical,D,Male,C,A,C,Married,3057,Yes,6,A,1,0,0,1,2,No
+34,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,B,A,Divorced,5121,No,7,C,0,0,0,0,8,No
+52,Travel_Rarely,Sales,Marketing,C,Male,B,D,A,Married,16856,No,34,D,34,6,1,16,3,No
+33,Travel_Rarely,Research & Development,Other,D,Male,C,A,D,Single,2686,Yes,10,B,10,9,7,8,1,Yes
+25,Travel_Rarely,Sales,Medical,C,Female,C,B,D,Single,6180,No,6,B,6,5,1,4,26,No
+45,Travel_Rarely,Sales,Technical Degree,B,Male,A,B,C,Single,6632,No,9,C,8,7,3,1,2,No
+23,Travel_Rarely,Research & Development,Medical,A,Male,D,A,C,Single,3505,No,2,C,2,2,0,2,10,No
+47,Travel_Frequently,Sales,Life Sciences,B,Female,D,B,C,Single,6397,Yes,8,C,5,4,1,3,27,Yes
+34,Travel_Rarely,Sales,Other,D,Male,C,B,D,Single,6274,No,6,C,6,5,1,4,2,No
+55,Travel_Rarely,Research & Development,Medical,D,Male,C,D,A,Married,19859,Yes,24,C,5,2,1,4,2,Yes
+36,Non-Travel,Sales,Life Sciences,A,Male,B,C,A,Single,7587,No,10,C,10,7,0,9,8,No
+52,Non-Travel,Research & Development,Medical,D,Male,C,A,D,Married,4258,No,5,C,4,3,1,2,19,No
+26,Travel_Frequently,Research & Development,Life Sciences,A,Female,A,A,D,Divorced,4364,No,5,C,2,2,2,0,1,No
+29,Travel_Rarely,Research & Development,Medical,B,Female,C,B,C,Married,4335,No,11,B,8,7,1,1,27,No
+26,Travel_Rarely,Sales,Technical Degree,D,Male,B,B,A,Single,5326,No,6,B,4,3,1,2,8,Yes
+34,Travel_Rarely,Research & Development,Life Sciences,B,Female,D,A,D,Single,3280,No,10,C,4,2,1,3,1,No
+54,Travel_Rarely,Research & Development,Medical,D,Female,C,B,A,Divorced,5485,Yes,9,C,5,3,1,4,19,No
+27,Travel_Frequently,Sales,Marketing,C,Male,C,B,D,Married,4342,No,5,C,4,2,1,1,8,No
+37,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,A,A,Divorced,2782,Yes,6,B,5,3,4,3,10,No
+38,Travel_Frequently,Research & Development,Life Sciences,A,Female,D,B,A,Single,5980,Yes,17,C,15,7,4,12,2,No
+34,Travel_Rarely,Research & Development,Medical,C,Female,B,A,A,Single,4381,No,6,C,6,5,1,3,2,No
+35,Travel_Rarely,Sales,Life Sciences,A,Female,C,A,D,Married,2572,No,3,B,3,2,0,2,8,No
+30,Travel_Rarely,Research & Development,Life Sciences,D,Male,A,A,C,Married,3833,No,7,C,2,2,0,2,1,No
+40,Travel_Frequently,Research & Development,Medical,C,Female,D,B,B,Married,4244,No,8,C,8,7,3,7,2,No
+34,Travel_Rarely,Sales,Life Sciences,C,Female,C,B,A,Married,6500,No,6,C,3,2,1,2,8,No
+42,Travel_Frequently,Research & Development,Life Sciences,B,Male,C,D,D,Divorced,18430,No,24,B,24,7,14,9,8,No
+23,Travel_Rarely,Research & Development,Life Sciences,C,Male,D,A,A,Married,1601,Yes,1,C,0,0,0,0,6,Yes
+24,Non-Travel,Research & Development,Life Sciences,C,Male,B,A,B,Divorced,2694,No,1,C,1,0,0,0,9,No
+52,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,B,C,Married,3149,No,9,C,5,2,1,4,11,No
+50,Travel_Rarely,Research & Development,Medical,C,Male,C,D,C,Married,17639,No,30,C,4,3,0,3,2,No
+29,Travel_Rarely,Research & Development,Life Sciences,B,Female,B,A,A,Married,2319,Yes,1,C,1,0,0,0,1,Yes
+33,Travel_Rarely,Research & Development,Medical,C,Male,C,C,C,Married,11691,No,14,D,13,9,3,7,7,No
+33,Travel_Rarely,Sales,Marketing,A,Female,C,B,A,Single,5324,No,6,C,3,2,0,2,16,Yes
+47,Travel_Rarely,Research & Development,Other,C,Female,C,D,D,Married,16752,Yes,26,B,26,14,3,0,2,No
+36,Travel_Rarely,Research & Development,Other,C,Female,C,B,B,Married,5228,No,10,C,9,7,0,5,1,No
+29,Travel_Rarely,Research & Development,Life Sciences,C,Male,D,A,C,Married,2700,No,10,C,10,7,0,7,23,No
+58,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,D,B,Single,19246,Yes,40,C,31,15,13,8,2,Yes
+35,Travel_Rarely,Research & Development,Life Sciences,D,Female,D,A,C,Single,2506,No,7,C,2,2,2,2,1,No
+42,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,B,D,Married,6062,Yes,8,C,4,3,0,2,1,No
+28,Travel_Rarely,Research & Development,Medical,C,Male,C,A,C,Single,4382,No,5,B,2,2,2,1,2,Yes
+36,Travel_Rarely,Human Resources,Human Resources,C,Male,C,A,B,Married,2143,No,8,C,5,2,0,4,13,No
+32,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,B,C,Married,6162,No,14,C,14,13,6,8,4,No
+40,Travel_Frequently,Research & Development,Medical,A,Male,B,B,C,Single,5094,No,10,C,1,0,0,0,16,No
+30,Travel_Rarely,Research & Development,Medical,C,Female,B,B,D,Single,6877,Yes,12,B,0,0,0,0,2,No
+45,Travel_Rarely,Research & Development,Life Sciences,B,Female,B,A,C,Single,2274,No,1,C,1,0,0,0,2,No
+42,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,B,B,Married,4434,No,10,B,9,8,7,8,29,No
+38,Travel_Frequently,Research & Development,Life Sciences,A,Male,B,B,A,Divorced,6288,No,13,B,4,3,1,2,12,No
+34,Travel_Frequently,Research & Development,Life Sciences,C,Female,B,A,D,Single,2553,No,6,C,5,2,1,3,16,No
+49,Travel_Rarely,Sales,Marketing,C,Female,C,C,D,Married,7654,No,9,D,9,8,7,7,11,Yes
+55,Travel_Rarely,Sales,Medical,C,Male,C,B,D,Single,5160,No,12,B,9,7,7,3,2,Yes
+43,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,D,A,Married,17159,No,22,C,4,1,1,0,14,No
+27,Travel_Rarely,Research & Development,Technical Degree,C,Male,B,C,D,Divorced,12808,Yes,9,C,9,8,0,8,5,No
+35,Travel_Rarely,Research & Development,Other,C,Male,C,C,C,Single,10221,No,17,D,8,5,1,6,7,No
+28,Travel_Rarely,Sales,Marketing,B,Female,C,B,B,Married,4779,Yes,8,C,8,7,7,5,2,No
+34,Travel_Rarely,Human Resources,Human Resources,C,Male,C,A,D,Married,3737,No,4,A,3,2,0,2,3,No
+26,Travel_Frequently,Research & Development,Medical,C,Female,B,A,C,Married,2366,Yes,8,C,8,7,1,7,5,Yes
+27,Non-Travel,Research & Development,Medical,D,Male,C,A,D,Married,1706,No,0,B,0,0,0,0,3,No
+51,Travel_Rarely,Sales,Marketing,A,Female,C,D,C,Married,16307,No,29,B,20,6,4,17,26,No
+44,Travel_Rarely,Research & Development,Medical,D,Male,C,B,B,Single,5933,No,10,B,5,2,2,3,4,No
+25,Travel_Rarely,Research & Development,Medical,A,Male,D,A,A,Single,3424,No,6,B,4,3,0,1,2,No
+33,Travel_Rarely,Sales,Medical,A,Male,D,B,A,Divorced,4037,No,9,C,9,8,0,8,1,No
+35,Travel_Rarely,Research & Development,Medical,C,Female,B,A,A,Single,2559,No,6,B,6,5,1,1,27,No
+36,Travel_Rarely,Sales,Life Sciences,B,Male,C,B,D,Married,6201,Yes,18,B,18,14,4,11,1,No
+32,Travel_Rarely,Sales,Life Sciences,B,Male,C,B,D,Divorced,4403,No,8,B,5,2,0,3,13,No
+30,Travel_Frequently,Research & Development,Life Sciences,B,Male,B,A,D,Divorced,3761,No,10,B,5,4,0,3,5,No
+53,Travel_Rarely,Sales,Marketing,A,Female,B,C,D,Married,10934,Yes,35,C,5,2,0,4,7,No
+45,Travel_Rarely,Sales,Marketing,D,Male,C,C,A,Divorced,10761,Yes,18,C,5,4,0,2,9,No
+32,Travel_Rarely,Research & Development,Medical,C,Female,D,B,C,Married,5175,No,9,B,5,3,1,3,8,No
+52,Travel_Frequently,Research & Development,Medical,C,Female,B,D,D,Married,13826,No,31,C,9,8,0,0,25,No
+37,Travel_Rarely,Sales,Marketing,D,Male,B,B,C,Divorced,6334,No,9,C,1,0,0,0,16,No
+28,Travel_Rarely,Human Resources,Medical,B,Male,B,A,D,Divorced,4936,No,6,C,5,1,0,4,8,No
+22,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,B,D,Married,4775,No,4,A,2,2,2,2,1,No
+44,Travel_Rarely,Research & Development,Life Sciences,A,Male,D,A,D,Married,2818,Yes,10,B,3,2,0,2,8,No
+42,Travel_Frequently,Research & Development,Medical,B,Male,C,A,D,Single,2515,Yes,8,C,2,1,2,2,2,No
+36,Travel_Rarely,Human Resources,Life Sciences,A,Male,B,A,A,Married,2342,No,6,C,5,4,0,3,8,No
+25,Travel_Rarely,Sales,Other,C,Male,C,B,A,Married,4194,Yes,5,C,5,3,0,3,3,No
+35,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,C,C,Married,10685,Yes,17,C,17,14,5,15,9,No
+35,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,A,B,Divorced,2022,Yes,10,B,10,2,7,8,25,Yes
+32,Non-Travel,Research & Development,Life Sciences,D,Male,C,A,D,Divorced,2314,No,4,C,3,0,0,2,1,No
+25,Travel_Rarely,Sales,Marketing,C,Male,B,B,A,Married,4256,No,5,D,5,2,0,3,4,No
+49,Travel_Rarely,Research & Development,Technical Degree,C,Female,C,A,A,Married,3580,No,7,C,4,2,0,2,1,No
+24,Non-Travel,Research & Development,Life Sciences,A,Male,B,A,D,Married,3162,No,6,B,5,2,3,4,4,No
+32,Travel_Frequently,Sales,Life Sciences,B,Male,C,B,B,Married,6524,No,10,C,10,8,5,3,5,No
+38,Travel_Rarely,Sales,Marketing,B,Male,B,A,B,Married,2899,No,3,C,2,2,1,2,9,No
+42,Travel_Rarely,Research & Development,Life Sciences,C,Female,D,B,D,Married,5231,Yes,17,B,5,3,1,3,3,No
+31,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,D,Married,2356,Yes,8,C,6,4,0,2,11,No
+29,Travel_Rarely,Sales,Medical,B,Female,B,A,C,Divorced,2800,Yes,5,C,3,2,0,2,1,Yes
+53,Travel_Rarely,Sales,Marketing,A,Male,C,D,D,Married,11836,No,28,C,2,0,2,2,8,No
+35,Travel_Rarely,Research & Development,Technical Degree,D,Male,B,C,B,Married,10903,No,16,C,13,10,4,8,25,No
+37,Travel_Frequently,Sales,Medical,C,Female,C,A,D,Married,2973,No,10,C,5,4,0,0,21,No
+53,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,D,D,Single,14275,No,33,C,12,9,3,8,23,No
+43,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,B,D,Married,5562,No,12,B,5,2,2,2,1,No
+47,Travel_Rarely,Sales,Marketing,C,Female,C,B,D,Married,4537,Yes,8,C,7,6,7,7,2,No
+37,Non-Travel,Sales,Medical,A,Male,C,C,B,Single,7642,Yes,10,C,10,0,0,9,19,No
+50,Non-Travel,Research & Development,Life Sciences,A,Male,C,D,A,Divorced,17924,No,31,C,31,6,14,7,2,No
+39,Travel_Rarely,Human Resources,Life Sciences,D,Female,B,B,D,Married,5204,No,13,C,5,4,0,4,2,No
+33,Travel_Rarely,Human Resources,Human Resources,D,Male,C,A,B,Divorced,2277,Yes,7,D,4,3,0,3,3,No
+32,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,D,Single,2795,Yes,1,A,1,0,0,1,25,Yes
+29,Travel_Rarely,Research & Development,Medical,A,Female,B,A,D,Divorced,2532,No,8,C,4,3,0,3,7,No
+44,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,A,Married,2559,Yes,8,C,8,7,7,1,9,No
+28,Travel_Rarely,Sales,Medical,A,Male,C,B,D,Single,4908,No,4,C,4,2,0,2,5,No
+58,Travel_Frequently,Research & Development,Life Sciences,D,Male,B,A,D,Divorced,2380,Yes,3,B,1,0,0,0,2,Yes
+43,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,B,B,Divorced,4765,No,4,D,1,0,0,0,8,No
+20,Travel_Rarely,Sales,Medical,C,Female,B,A,C,Single,2044,No,2,B,2,2,0,2,2,Yes
+21,Travel_Rarely,Research & Development,Other,D,Female,C,A,D,Single,2693,No,1,B,1,0,0,0,18,Yes
+36,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,B,D,Married,6586,Yes,17,B,16,8,4,11,14,No
+47,Travel_Rarely,Sales,Life Sciences,D,Female,B,A,D,Single,3294,Yes,3,B,3,2,1,2,2,No
+22,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,B,C,Married,4171,Yes,4,D,3,2,0,2,3,Yes
+41,Travel_Rarely,Research & Development,Life Sciences,B,Female,A,A,D,Divorced,2778,Yes,10,B,7,7,1,0,2,Yes
+28,Travel_Rarely,Research & Development,Medical,C,Female,C,A,C,Divorced,2377,No,6,C,2,2,2,2,9,No
+39,Travel_Rarely,Research & Development,Medical,D,Male,C,A,A,Married,2404,Yes,8,A,2,2,2,2,6,Yes
+27,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,A,C,Single,2318,No,1,C,1,1,0,0,4,No
+34,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,B,Divorced,2008,No,1,C,1,0,1,0,10,No
+42,Travel_Rarely,Sales,Medical,C,Female,B,B,C,Single,6244,No,10,C,5,4,0,3,14,No
+33,Travel_Rarely,Research & Development,Other,C,Male,B,A,A,Single,2799,Yes,6,C,3,2,0,2,1,No
+58,Travel_Rarely,Research & Development,Technical Degree,C,Female,B,C,B,Divorced,10552,Yes,24,C,6,0,0,4,5,No
+31,Travel_Rarely,Sales,Life Sciences,B,Male,B,A,C,Married,2329,No,13,D,7,7,5,2,7,No
+35,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,B,D,Married,4014,Yes,10,A,10,6,0,7,21,No
+49,Travel_Rarely,Research & Development,Other,A,Female,C,C,B,Married,7403,No,29,B,26,9,1,7,8,No
+48,Travel_Rarely,Research & Development,Medical,D,Male,C,A,C,Married,2259,No,13,B,0,0,0,0,20,No
+31,Non-Travel,Sales,Marketing,D,Female,C,B,C,Married,6932,No,9,B,9,8,0,0,20,No
+36,Travel_Rarely,Research & Development,Other,B,Male,C,A,D,Single,4678,No,8,C,6,2,0,1,7,No
+38,Travel_Rarely,Research & Development,Technical Degree,D,Female,C,C,A,Married,13582,No,15,C,15,12,5,11,1,No
+32,Non-Travel,Research & Development,Life Sciences,C,Female,B,A,B,Married,2332,No,5,C,3,0,0,2,1,No
+25,Travel_Rarely,Sales,Marketing,C,Male,B,A,B,Married,2413,Yes,1,C,1,0,0,0,19,Yes
+40,Travel_Rarely,Sales,Marketing,A,Male,B,C,B,Divorced,9705,No,11,B,1,0,0,0,10,No
+26,Travel_Frequently,Sales,Medical,C,Male,B,B,A,Single,4294,No,7,C,7,7,0,7,1,No
+41,Travel_Rarely,Research & Development,Medical,D,Male,C,A,A,Single,4721,Yes,20,C,18,13,2,17,6,No
+36,Travel_Rarely,Research & Development,Medical,C,Male,C,A,C,Single,2519,No,16,C,11,8,3,9,2,No
+19,Travel_Rarely,Sales,Other,D,Male,B,A,B,Single,2121,Yes,1,D,1,0,0,0,21,Yes
+20,Travel_Rarely,Research & Development,Technical Degree,A,Male,C,A,A,Single,2973,No,1,C,1,0,0,0,4,Yes
+31,Travel_Rarely,Research & Development,Medical,D,Female,C,B,D,Married,5855,Yes,10,A,9,7,8,5,12,No
+40,Travel_Frequently,Research & Development,Medical,D,Male,C,A,B,Divorced,3617,Yes,3,C,1,1,0,0,9,No
+32,Travel_Rarely,Research & Development,Medical,C,Female,C,B,A,Married,6725,No,8,D,8,7,6,3,3,No
+36,Travel_Rarely,Sales,Life Sciences,C,Male,B,C,D,Married,10325,Yes,16,C,16,7,3,7,3,Yes
+33,Travel_Rarely,Research & Development,Life Sciences,B,Female,B,B,D,Single,6949,No,6,C,5,0,1,4,1,No
+37,Travel_Rarely,Sales,Life Sciences,A,Male,B,C,C,Married,10609,No,17,A,14,1,11,7,1,Yes
+45,Non-Travel,Research & Development,Life Sciences,C,Male,C,B,B,Married,4447,No,9,B,9,7,0,8,4,No
+29,Travel_Frequently,Sales,Technical Degree,C,Female,C,A,D,Married,2157,No,3,C,3,1,0,2,20,No
+35,Travel_Rarely,Sales,Medical,C,Female,C,B,C,Married,4601,No,5,C,5,2,1,0,18,No
+52,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,D,D,Married,17099,No,26,B,9,8,7,8,1,No
+58,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,A,C,Single,2479,No,7,C,1,0,0,0,2,Yes
+53,Travel_Rarely,Sales,Medical,C,Male,C,D,C,Divorced,14852,No,22,D,17,13,15,2,2,No
+30,Travel_Rarely,Sales,Other,C,Male,C,C,C,Divorced,7264,No,10,D,8,4,7,7,8,No
+38,Non-Travel,Sales,Technical Degree,C,Female,C,B,D,Single,5666,Yes,6,C,5,3,1,3,10,No
+35,Travel_Rarely,Sales,Life Sciences,D,Male,C,C,D,Divorced,7823,No,12,C,10,9,0,8,3,No
+39,Travel_Rarely,Sales,Life Sciences,A,Male,D,C,C,Single,7880,No,9,C,8,7,0,7,2,No
+40,Non-Travel,Sales,Life Sciences,B,Female,D,D,B,Single,13194,Yes,22,B,1,0,0,0,24,Yes
+47,Travel_Frequently,Research & Development,Medical,C,Male,D,B,C,Divorced,5067,Yes,20,D,19,10,2,7,16,No
+36,Non-Travel,Sales,Technical Degree,A,Male,C,B,D,Divorced,5079,No,12,C,7,7,0,7,8,No
+31,Non-Travel,Research & Development,Medical,C,Male,B,A,A,Single,2321,Yes,4,C,3,2,1,2,9,Yes
+33,Non-Travel,Sales,Life Sciences,D,Male,C,D,C,Single,17444,No,10,C,10,8,6,0,17,No
+29,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,A,A,Single,2404,Yes,3,C,0,0,0,0,10,Yes
+33,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,A,D,Single,3452,No,5,C,3,2,0,2,13,No
+45,Travel_Rarely,Research & Development,Medical,D,Female,C,A,D,Divorced,2270,No,8,C,5,3,0,2,1,No
+50,Travel_Rarely,Research & Development,Medical,D,Male,C,D,D,Divorced,17399,No,32,B,5,4,1,3,1,No
+33,Travel_Frequently,Research & Development,Other,C,Female,D,B,B,Married,5488,Yes,6,C,6,5,1,2,1,No
+41,Travel_Frequently,Research & Development,Medical,A,Male,C,D,C,Divorced,19419,No,21,D,18,16,0,11,9,No
+27,Travel_Rarely,Research & Development,Technical Degree,C,Female,C,A,B,Married,2811,No,4,C,2,2,2,2,16,No
+45,Non-Travel,Research & Development,Life Sciences,D,Male,C,B,A,Married,3633,Yes,9,C,9,8,0,8,23,No
+47,Travel_Rarely,Sales,Life Sciences,D,Female,C,B,D,Single,4163,Yes,9,C,9,0,0,7,4,No
+30,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,A,C,Married,2132,Yes,7,C,5,2,0,1,22,Yes
+50,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,D,C,Married,13973,Yes,22,C,12,11,1,5,24,No
+38,Travel_Frequently,Research & Development,Medical,C,Male,C,A,C,Married,2684,No,3,B,2,1,0,2,10,No
+46,Travel_Rarely,Research & Development,Medical,D,Male,C,C,C,Divorced,10845,No,13,C,8,7,0,7,7,No
+24,Travel_Rarely,Research & Development,Medical,D,Female,B,B,C,Divorced,4377,No,5,C,4,2,3,2,17,No
+35,Travel_Rarely,Research & Development,Other,C,Male,B,A,B,Divorced,3743,Yes,5,A,4,2,0,2,14,Yes
+31,Travel_Frequently,Research & Development,Life Sciences,C,Female,C,B,A,Married,4148,No,4,C,4,3,0,3,1,No
+18,Non-Travel,Research & Development,Life Sciences,B,Male,C,A,D,Single,1051,No,0,C,0,0,0,0,5,No
+54,Travel_Rarely,Research & Development,Technical Degree,C,Female,C,C,C,Married,10739,No,22,C,10,7,0,8,17,No
+35,Travel_Rarely,Research & Development,Medical,C,Female,C,C,C,Divorced,10388,Yes,16,B,16,10,10,1,25,No
+30,Travel_Rarely,Research & Development,Life Sciences,B,Female,D,C,A,Married,11416,Yes,9,B,8,7,1,7,8,No
+20,Travel_Rarely,Research & Development,Medical,D,Female,B,A,A,Single,2600,Yes,1,C,1,0,0,0,11,Yes
+30,Travel_Frequently,Research & Development,Medical,B,Female,C,A,B,Single,2422,No,4,C,3,2,1,2,5,Yes
+26,Travel_Rarely,Research & Development,Medical,D,Male,D,B,D,Married,5472,No,8,C,8,7,1,3,2,No
+22,Travel_Rarely,Research & Development,Life Sciences,B,Male,A,A,A,Married,2451,No,4,B,4,3,1,1,8,No
+48,Travel_Rarely,Research & Development,Life Sciences,A,Male,B,B,C,Single,4240,No,19,C,2,2,2,2,6,No
+48,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,C,C,Single,10999,No,27,C,15,11,4,8,4,No
+41,Travel_Rarely,Research & Development,Medical,D,Female,C,B,C,Single,5003,No,8,C,2,2,2,1,7,No
+39,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,D,D,Married,12742,No,21,C,21,6,11,8,1,No
+27,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,B,D,Married,4227,No,4,C,3,2,2,2,2,No
+35,Travel_Rarely,Research & Development,Other,B,Male,C,A,D,Divorced,3917,No,3,B,3,2,1,2,10,No
+42,Travel_Rarely,Sales,Marketing,D,Male,C,D,C,Married,18303,No,21,D,1,0,0,0,5,No
+50,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,D,Married,2380,No,8,C,1,0,0,0,9,No
+59,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,D,D,Single,13726,Yes,30,C,5,3,4,3,2,No
+37,Travel_Rarely,Research & Development,Medical,A,Female,A,B,B,Married,4777,No,15,A,1,0,0,0,11,Yes
+55,Travel_Frequently,Research & Development,Medical,C,Male,C,B,B,Married,6385,Yes,17,C,8,7,6,7,18,No
+41,Non-Travel,Research & Development,Life Sciences,B,Female,A,D,C,Divorced,19973,No,21,C,21,16,5,10,7,No
+38,Travel_Rarely,Sales,Life Sciences,B,Male,C,B,D,Single,6861,Yes,19,C,1,0,0,0,3,No
+26,Non-Travel,Sales,Medical,B,Male,A,B,A,Single,4969,No,7,C,2,2,2,2,29,Yes
+52,Travel_Rarely,Sales,Marketing,A,Female,A,D,D,Married,19845,No,33,C,32,14,6,9,2,Yes
+44,Travel_Rarely,Sales,Medical,D,Female,D,D,D,Married,13320,Yes,23,C,12,11,11,11,28,No
+50,Non-Travel,Sales,Life Sciences,D,Female,C,B,C,Married,6347,No,19,C,18,7,0,13,1,No
+36,Travel_Rarely,Research & Development,Life Sciences,C,Female,D,A,A,Single,2743,No,18,C,17,13,15,14,16,Yes
+39,Travel_Frequently,Research & Development,Medical,D,Female,C,C,A,Single,10880,Yes,21,C,21,6,2,8,22,No
+33,Non-Travel,Sales,Life Sciences,B,Female,B,A,D,Single,2342,No,3,B,2,2,2,2,8,No
+45,Travel_Rarely,Sales,Life Sciences,D,Female,C,D,D,Married,17650,No,26,D,9,3,1,1,11,No
+32,Non-Travel,Research & Development,Medical,D,Female,C,A,C,Single,4025,No,10,C,8,7,7,7,29,No
+34,Travel_Rarely,Sales,Marketing,B,Male,D,B,D,Divorced,9725,No,16,B,15,1,0,9,1,No
+59,Travel_Rarely,Sales,Technical Degree,B,Male,C,C,D,Married,11904,Yes,14,A,6,4,0,4,1,No
+45,Travel_Rarely,Human Resources,Medical,B,Male,C,A,B,Single,2177,No,6,C,6,3,0,4,24,No
+53,Travel_Frequently,Sales,Marketing,C,Female,B,C,B,Married,7525,No,30,C,15,7,6,12,2,No
+36,Travel_Rarely,Research & Development,Other,A,Male,C,B,C,Divorced,4834,No,9,B,1,0,0,0,15,Yes
+26,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,A,A,Married,2042,Yes,6,C,3,2,1,2,2,Yes
+34,Travel_Rarely,Sales,Life Sciences,C,Female,C,A,C,Married,2220,Yes,1,C,1,1,0,0,10,No
+28,Travel_Rarely,Sales,Medical,D,Male,C,A,B,Married,1052,No,1,C,1,0,0,0,10,No
+38,Travel_Frequently,Research & Development,Other,C,Male,C,A,C,Married,2821,No,8,C,2,2,2,2,3,No
+50,Travel_Rarely,Research & Development,Medical,B,Male,C,D,C,Married,19237,Yes,29,B,8,1,7,7,2,No
+37,Travel_Rarely,Research & Development,Other,D,Female,C,B,B,Single,4107,No,8,B,4,3,0,1,3,No
+40,Travel_Rarely,Sales,Marketing,C,Male,C,B,A,Married,8396,No,8,B,7,7,7,5,26,No
+26,Travel_Frequently,Research & Development,Medical,A,Female,B,A,C,Divorced,2007,No,5,C,5,3,1,3,1,No
+46,Travel_Rarely,Research & Development,Medical,D,Male,C,D,D,Divorced,19627,No,23,C,2,2,2,2,1,No
+54,Travel_Rarely,Sales,Life Sciences,C,Female,B,C,C,Married,10686,No,13,C,9,4,7,0,2,No
+56,Travel_Frequently,Research & Development,Medical,A,Female,C,A,C,Married,2942,No,18,C,5,4,0,3,9,No
+36,Travel_Rarely,Research & Development,Medical,D,Female,B,C,D,Single,8858,No,15,B,14,8,7,8,12,No
+55,Non-Travel,Research & Development,Medical,C,Male,B,D,A,Single,16756,No,31,D,9,7,6,2,2,No
+43,Travel_Rarely,Sales,Medical,C,Male,B,C,D,Divorced,10798,No,18,C,1,0,0,0,25,No
+20,Travel_Frequently,Sales,Marketing,D,Female,C,A,D,Single,2323,Yes,2,C,2,2,0,2,9,Yes
+21,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,A,A,Single,1416,No,1,B,1,0,1,0,10,Yes
+46,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,B,A,Divorced,4615,Yes,19,C,16,13,1,7,8,No
+51,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,C,Married,2461,Yes,18,D,10,0,2,7,4,Yes
+28,Non-Travel,Research & Development,Technical Degree,B,Male,B,C,A,Single,8722,No,10,B,10,7,1,9,24,Yes
+26,Travel_Rarely,Research & Development,Medical,A,Male,B,A,A,Married,3955,No,6,C,5,3,1,3,1,No
+30,Travel_Rarely,Research & Development,Other,C,Male,C,B,A,Married,9957,No,7,B,6,2,0,2,20,No
+41,Travel_Rarely,Research & Development,Technical Degree,B,Female,D,A,C,Married,3376,No,10,C,10,6,0,8,7,No
+38,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,C,C,Married,8823,No,20,B,19,9,1,9,17,No
+40,Travel_Rarely,Research & Development,Technical Degree,A,Male,C,C,D,Married,10322,No,14,C,11,10,11,1,20,No
+27,Non-Travel,Research & Development,Life Sciences,A,Male,A,A,C,Married,4621,No,3,C,3,2,1,2,8,No
+55,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,C,B,Married,10976,No,23,C,3,2,1,2,2,No
+28,Travel_Rarely,Research & Development,Other,C,Female,C,B,C,Single,3660,No,10,D,8,7,1,7,10,No
+44,Travel_Rarely,Human Resources,Medical,B,Male,B,C,A,Married,10482,No,24,C,20,6,3,6,1,Yes
+33,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,C,D,Divorced,7119,No,9,C,3,2,1,2,5,No
+35,Travel_Rarely,Sales,Technical Degree,D,Male,C,C,A,Single,9582,Yes,9,C,8,7,4,7,4,Yes
+33,Travel_Frequently,Research & Development,Medical,A,Female,B,B,C,Single,4508,No,14,C,13,7,3,8,29,Yes
+28,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,C,Divorced,2207,No,4,B,4,2,2,2,15,No
+34,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,B,D,Single,7756,No,7,B,6,2,0,4,3,No
+37,Travel_Rarely,Sales,Life Sciences,D,Female,B,B,D,Divorced,6694,Yes,8,C,1,0,0,0,10,No
+25,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,A,D,Married,3691,Yes,7,D,7,7,5,6,4,Yes
+26,Travel_Rarely,Research & Development,Medical,A,Male,C,A,C,Divorced,2377,No,1,B,1,1,0,0,21,Yes
+33,Travel_Rarely,Research & Development,Medical,A,Male,B,A,B,Single,2313,Yes,5,C,2,2,2,2,25,Yes
+42,Travel_Rarely,Research & Development,Medical,D,Male,C,D,A,Married,17665,No,23,C,22,6,13,7,2,No
+28,Travel_Frequently,Research & Development,Medical,A,Male,B,A,B,Divorced,2596,No,1,C,1,0,0,0,1,Yes
+50,Travel_Frequently,Sales,Other,D,Male,C,B,C,Single,4728,Yes,5,C,0,0,0,0,1,Yes
+33,Travel_Frequently,Sales,Life Sciences,D,Female,C,B,B,Married,4302,No,4,C,3,2,0,2,7,No
+34,Non-Travel,Research & Development,Life Sciences,C,Male,B,A,D,Married,2979,No,6,C,0,0,0,0,3,No
+48,Non-Travel,Research & Development,Medical,A,Male,D,D,D,Single,16885,No,27,B,5,4,2,1,1,No
+45,Non-Travel,Sales,Life Sciences,B,Female,B,B,C,Married,5593,No,15,C,15,10,4,12,9,No
+52,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,C,B,Single,10445,No,18,C,8,6,4,0,7,No
+38,Travel_Rarely,Sales,Marketing,C,Male,B,C,C,Divorced,8740,Yes,9,C,8,7,2,7,10,No
+29,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,A,D,Divorced,2514,No,11,C,7,5,1,7,28,No
+28,Travel_Rarely,Research & Development,Medical,D,Female,C,C,B,Divorced,7655,No,10,B,9,7,1,7,3,No
+46,Travel_Rarely,Sales,Marketing,A,Male,C,D,C,Married,17465,No,23,C,12,9,4,9,3,No
+38,Travel_Rarely,Sales,Marketing,D,Male,C,C,B,Single,7351,No,10,C,1,0,0,0,2,No
+43,Travel_Frequently,Research & Development,Life Sciences,C,Female,C,C,A,Married,10820,No,18,C,8,7,0,1,27,No
+39,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,D,D,Divorced,12169,No,21,C,18,7,11,5,2,Yes
+40,Travel_Rarely,Research & Development,Medical,C,Male,B,D,C,Single,19626,No,21,D,20,7,4,9,14,No
+21,Travel_Rarely,Research & Development,Technical Degree,D,Female,B,A,B,Single,2070,Yes,2,D,2,2,2,2,1,No
+39,Non-Travel,Research & Development,Life Sciences,C,Male,C,B,B,Single,6782,No,9,B,5,4,0,3,9,No
+36,Non-Travel,Research & Development,Life Sciences,A,Male,C,B,D,Single,7779,No,18,C,11,9,0,9,18,No
+31,Travel_Frequently,Sales,Life Sciences,C,Male,D,A,D,Married,2791,No,3,C,2,2,2,2,20,No
+28,Travel_Rarely,Research & Development,Life Sciences,A,Male,B,A,B,Married,3201,No,6,A,5,3,0,4,2,No
+35,Travel_Frequently,Sales,Marketing,D,Male,C,B,D,Divorced,4968,No,5,C,5,2,0,2,11,No
+49,Travel_Rarely,Sales,Technical Degree,D,Male,B,D,B,Married,13120,No,22,C,9,8,2,3,8,No
+34,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,B,C,Single,4033,No,5,B,3,2,0,2,2,No
+29,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,A,B,Divorced,3291,No,8,B,7,5,1,1,10,No
+42,Travel_Rarely,Research & Development,Medical,B,Male,A,B,D,Single,4272,No,16,C,1,0,0,0,29,No
+29,Travel_Rarely,Research & Development,Medical,B,Male,B,B,D,Married,5056,Yes,10,B,10,7,1,2,8,No
+38,Travel_Rarely,Human Resources,Human Resources,C,Male,D,A,C,Married,2844,No,7,D,7,6,5,0,1,No
+28,Travel_Frequently,Research & Development,Life Sciences,C,Male,B,A,C,Divorced,2703,Yes,3,C,3,1,0,2,6,No
+18,Non-Travel,Research & Development,Medical,C,Male,C,A,C,Single,1904,No,0,C,0,0,0,0,8,Yes
+33,Travel_Rarely,Sales,Marketing,A,Female,C,B,A,Single,8224,Yes,6,C,5,2,0,3,9,Yes
+41,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,D,Married,4766,Yes,6,C,1,0,0,0,12,No
+31,Travel_Frequently,Research & Development,Medical,C,Male,C,A,C,Married,2610,No,2,B,2,2,2,2,15,Yes
+37,Travel_Rarely,Research & Development,Medical,C,Female,B,B,D,Divorced,5731,No,9,C,6,2,1,3,25,No
+27,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,A,C,Married,2539,No,4,C,4,2,2,2,6,No
+34,Travel_Rarely,Sales,Life Sciences,B,Female,C,B,C,Married,5714,No,6,B,6,5,1,3,9,No
+35,Travel_Rarely,Human Resources,Technical Degree,C,Male,C,A,C,Single,4323,No,6,A,5,4,1,4,8,No
+29,Travel_Rarely,Sales,Life Sciences,D,Female,B,C,A,Married,7336,No,11,A,11,8,3,10,23,Yes
+40,Travel_Frequently,Research & Development,Medical,B,Female,C,C,C,Single,13499,No,20,B,18,7,2,13,9,No
+42,Travel_Frequently,Sales,Life Sciences,C,Male,C,D,A,Single,13758,Yes,22,B,21,9,13,14,12,Yes
+42,Travel_Rarely,Sales,Marketing,B,Male,C,B,A,Single,5155,No,9,D,6,4,1,5,4,No
+35,Travel_Rarely,Research & Development,Medical,D,Male,B,A,C,Married,2258,No,10,C,8,0,1,7,1,No
+24,Travel_Rarely,Research & Development,Medical,D,Male,C,A,B,Single,3597,No,6,C,4,3,1,2,24,No
+28,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,A,D,Married,2515,Yes,1,B,1,1,0,0,12,Yes
+26,Travel_Rarely,Research & Development,Medical,A,Male,D,A,D,Married,4420,No,8,C,8,7,0,7,3,No
+30,Travel_Rarely,Sales,Marketing,C,Male,B,B,C,Married,6578,No,10,C,10,3,1,4,10,No
+40,Travel_Frequently,Research & Development,Medical,C,Female,B,B,D,Married,4422,Yes,16,A,1,1,0,0,26,No
+35,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,C,B,Divorced,10274,No,15,D,7,7,6,4,2,No
+34,Travel_Frequently,Research & Development,Medical,D,Male,B,B,A,Single,5343,No,14,C,13,9,4,9,1,No
+35,Travel_Frequently,Research & Development,Other,D,Male,B,A,D,Married,2376,No,2,D,2,2,2,2,4,No
+43,Travel_Rarely,Sales,Marketing,A,Female,A,B,C,Single,5346,No,7,B,4,3,1,3,9,Yes
+32,Non-Travel,Sales,Life Sciences,C,Female,C,A,A,Divorced,2827,No,1,C,1,0,0,0,2,No
+56,Travel_Rarely,Research & Development,Technical Degree,D,Female,C,D,A,Divorced,19943,No,28,C,5,2,4,2,4,No
+29,Travel_Rarely,Research & Development,Medical,B,Female,C,A,D,Married,3131,No,10,C,10,8,0,8,6,No
+19,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,A,Single,2552,No,1,C,1,1,0,0,9,No
+45,Travel_Rarely,Research & Development,Medical,A,Female,C,A,C,Married,4477,Yes,7,B,3,2,0,2,7,No
+37,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,B,D,Married,6474,No,14,B,14,8,3,11,1,No
+20,Travel_Rarely,Research & Development,Life Sciences,A,Male,B,A,C,Single,3033,No,2,B,2,2,1,2,3,No
+44,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,C,Single,2936,Yes,6,C,6,4,0,2,10,Yes
+53,Travel_Rarely,Research & Development,Medical,D,Female,C,D,C,Divorced,18606,No,26,C,7,7,4,7,7,No
+29,Travel_Rarely,Research & Development,Life Sciences,B,Female,A,A,D,Married,2168,Yes,6,B,5,4,1,3,15,No
+22,Travel_Frequently,Research & Development,Life Sciences,C,Male,B,A,D,Married,2853,Yes,1,C,0,0,0,0,3,Yes
+46,Travel_Rarely,Sales,Marketing,C,Female,C,D,A,Married,17048,No,28,C,26,15,15,9,2,No
+44,Non-Travel,Research & Development,Life Sciences,D,Male,A,A,C,Single,2290,No,6,C,0,0,0,0,17,No
+33,Travel_Rarely,Human Resources,Human Resources,B,Male,C,A,C,Married,3600,No,5,C,5,4,1,4,2,No
+41,Non-Travel,Research & Development,Life Sciences,A,Male,B,A,A,Divorced,2107,No,5,A,1,0,0,0,5,Yes
+30,Travel_Rarely,Sales,Life Sciences,C,Male,C,B,A,Divorced,4115,No,8,C,4,3,0,3,29,No
+40,Travel_Frequently,Sales,Medical,B,Male,C,B,B,Married,4327,No,5,C,0,0,0,0,2,No
+50,Travel_Frequently,Research & Development,Medical,D,Female,C,D,A,Married,17856,No,32,C,2,2,2,2,2,No
+28,Travel_Rarely,Research & Development,Medical,D,Male,B,A,A,Married,3196,No,6,C,6,5,3,3,19,No
+46,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,D,B,Married,19081,No,25,C,4,2,0,3,15,No
+35,Travel_Rarely,Sales,Life Sciences,C,Male,C,B,A,Married,8966,Yes,15,C,7,7,1,7,17,No
+24,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,A,B,Married,2210,No,1,A,1,0,0,0,17,Yes
+33,Travel_Frequently,Sales,Medical,B,Female,C,B,C,Married,4539,No,10,B,10,7,0,1,25,No
+36,Travel_Rarely,Research & Development,Life Sciences,C,Male,A,A,C,Divorced,2741,No,7,C,7,7,1,7,6,No
+30,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,B,C,Divorced,3491,No,10,B,10,7,8,9,7,No
+44,Travel_Rarely,Research & Development,Other,D,Male,C,B,D,Single,4541,No,20,C,20,11,13,17,29,No
+20,Travel_Rarely,Sales,Marketing,C,Male,D,A,D,Single,2678,No,2,C,2,1,2,2,21,No
+46,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,B,D,Divorced,7379,No,12,B,6,3,1,4,2,No
+42,Non-Travel,Human Resources,Medical,D,Male,D,B,A,Married,6272,No,10,D,4,3,0,3,2,No
+60,Travel_Rarely,Sales,Marketing,B,Male,D,B,D,Divorced,5220,Yes,12,C,11,7,1,9,7,No
+32,Travel_Frequently,Research & Development,Other,C,Female,B,A,B,Married,2743,No,2,C,2,2,2,2,13,No
+32,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,B,C,Single,4998,Yes,10,C,8,7,0,7,2,No
+36,Travel_Rarely,Research & Development,Technical Degree,C,Female,A,C,A,Divorced,10252,Yes,17,C,7,7,7,7,1,No
+33,Travel_Rarely,Research & Development,Medical,A,Male,C,A,D,Married,2781,No,15,C,14,10,4,10,9,No
+40,Travel_Rarely,Sales,Technical Degree,B,Female,B,B,B,Divorced,6852,No,7,D,5,1,1,3,10,No
+25,Travel_Rarely,Sales,Life Sciences,C,Male,C,B,D,Single,4950,No,5,C,4,3,1,1,10,No
+30,Travel_Rarely,Research & Development,Medical,D,Male,C,A,B,Married,3579,Yes,12,C,11,9,5,7,1,No
+42,Travel_Frequently,Research & Development,Medical,A,Female,C,C,A,Married,13191,Yes,20,C,1,0,0,0,26,No
+35,Non-Travel,Sales,Marketing,C,Female,B,C,D,Married,10377,Yes,16,B,13,2,4,12,8,No
+27,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,A,Married,2235,Yes,9,B,9,7,6,8,14,No
+54,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,C,C,Divorced,10502,No,33,A,5,4,1,4,1,No
+44,Travel_Rarely,Research & Development,Life Sciences,A,Female,D,A,D,Married,2011,No,10,C,10,5,7,7,2,No
+19,Non-Travel,Research & Development,Medical,A,Female,B,A,B,Single,1859,Yes,1,D,1,1,0,0,10,Yes
+29,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,A,D,Divorced,3760,No,3,C,3,2,1,2,1,No
+54,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,D,D,Married,17779,No,36,C,10,9,0,9,3,No
+31,Travel_Rarely,Research & Development,Medical,C,Male,C,B,A,Married,6833,Yes,6,B,6,5,0,1,11,No
+31,Travel_Rarely,Research & Development,Medical,C,Female,B,B,A,Single,6812,No,10,C,10,9,1,8,24,No
+59,Travel_Rarely,Sales,Life Sciences,C,Female,B,B,D,Single,5171,No,13,C,6,1,0,5,3,No
+43,Travel_Rarely,Research & Development,Life Sciences,C,Male,A,D,D,Married,19740,No,25,C,8,7,0,7,3,No
+49,Travel_Rarely,Research & Development,Medical,A,Male,B,D,C,Married,18711,No,23,D,1,0,0,0,4,No
+36,Travel_Frequently,Research & Development,Technical Degree,C,Male,C,A,B,Married,3692,No,12,B,11,10,0,7,3,No
+48,Travel_Rarely,Research & Development,Technical Degree,D,Male,D,A,B,Single,2559,No,7,B,1,0,0,0,2,No
+27,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,C,Divorced,2517,No,5,C,5,3,0,3,4,No
+29,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,B,D,Divorced,6623,Yes,6,C,6,0,1,0,7,No
+48,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,D,D,Single,18265,No,25,D,1,0,0,0,1,No
+29,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,D,D,Divorced,16124,No,9,B,7,7,1,7,1,No
+34,Travel_Rarely,Research & Development,Technical Degree,C,Female,D,A,C,Married,2585,No,2,B,1,0,0,0,20,No
+44,Travel_Rarely,Sales,Marketing,B,Male,C,D,B,Married,18213,No,26,C,22,9,3,10,5,No
+33,Travel_Rarely,Sales,Marketing,D,Male,D,C,C,Divorced,8380,Yes,10,C,9,8,0,8,10,No
+19,Travel_Rarely,Research & Development,Life Sciences,B,Female,D,A,D,Single,2994,Yes,1,C,1,0,0,1,25,No
+23,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,C,Married,1223,No,1,C,1,0,0,1,1,No
+25,Travel_Frequently,Sales,Life Sciences,C,Male,A,A,D,Single,1118,Yes,1,C,1,0,1,0,24,Yes
+26,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,D,Single,2875,Yes,8,B,8,5,2,2,4,No
+45,Travel_Rarely,Sales,Marketing,A,Female,A,D,B,Single,18824,Yes,26,C,24,10,1,11,2,Yes
+55,Non-Travel,Research & Development,Medical,D,Male,B,D,B,Divorced,13577,Yes,34,C,33,9,15,0,8,No
+21,Travel_Frequently,Research & Development,Life Sciences,A,Female,B,A,C,Single,2625,No,2,A,2,2,2,2,10,Yes
+46,Travel_Rarely,Sales,Marketing,D,Female,B,D,B,Married,18789,No,26,C,11,4,0,8,4,No
+34,Travel_Rarely,Sales,Marketing,C,Female,C,B,A,Single,4538,Yes,4,C,3,2,0,2,2,No
+51,Travel_Frequently,Sales,Life Sciences,D,Male,C,D,B,Divorced,19847,Yes,31,B,29,10,11,10,9,No
+59,Travel_Rarely,Research & Development,Medical,D,Male,C,C,D,Single,10512,No,25,B,9,7,5,4,18,No
+34,Travel_Frequently,Research & Development,Medical,C,Female,C,B,B,Divorced,4444,No,15,D,11,8,5,10,19,No
+28,Travel_Frequently,Research & Development,Medical,D,Male,C,A,C,Single,2154,Yes,5,B,4,2,0,2,1,No
+44,Travel_Rarely,Research & Development,Life Sciences,C,Male,D,D,A,Divorced,19190,No,26,B,25,9,14,13,4,No
+34,Travel_Frequently,Human Resources,Life Sciences,C,Male,B,B,B,Married,4490,No,14,D,10,9,1,8,11,No
+35,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,C,Married,3506,Yes,4,C,3,2,2,2,6,No
+42,Travel_Rarely,Research & Development,Medical,B,Female,D,B,B,Married,2372,Yes,18,C,1,0,0,0,7,No
+43,Travel_Rarely,Sales,Marketing,D,Female,B,C,D,Single,10231,No,23,D,21,7,15,17,4,No
+36,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,B,B,Single,5410,Yes,18,C,16,14,5,12,2,No
+44,Travel_Rarely,Research & Development,Medical,A,Female,C,C,D,Married,7978,No,10,C,10,7,0,5,15,Yes
+28,Travel_Frequently,Research & Development,Life Sciences,D,Male,B,A,D,Married,3867,Yes,2,C,2,2,2,2,2,No
+51,Travel_Frequently,Research & Development,Medical,B,Female,B,A,C,Single,2838,No,8,B,7,0,7,7,6,No
+30,Non-Travel,Research & Development,Medical,C,Female,C,B,C,Single,4695,Yes,10,C,8,4,1,7,9,No
+29,Travel_Rarely,Research & Development,Technical Degree,B,Female,C,A,C,Divorced,3339,Yes,10,C,7,7,7,7,7,Yes
+28,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,A,A,Single,2080,No,5,B,3,2,1,2,1,No
+25,Travel_Rarely,Research & Development,Medical,D,Female,C,A,B,Single,2096,No,2,B,2,2,2,1,1,No
+32,Travel_Rarely,Sales,Medical,C,Male,D,B,D,Married,6209,No,10,D,10,7,0,8,8,No
+45,Travel_Frequently,Research & Development,Medical,B,Female,C,D,B,Single,18061,No,22,C,0,0,0,0,25,No
+39,Travel_Rarely,Research & Development,Medical,C,Female,B,D,B,Divorced,17123,Yes,21,C,19,9,15,2,13,No
+58,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,C,Divorced,2372,No,2,C,2,2,2,2,23,No
+32,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,C,Married,4883,No,10,C,10,4,1,1,7,Yes
+39,Travel_Rarely,Research & Development,Medical,C,Male,C,A,A,Single,3904,No,6,C,5,2,0,3,23,Yes
+30,Travel_Rarely,Research & Development,Technical Degree,A,Female,B,B,D,Married,4627,No,10,C,9,2,6,7,6,No
+36,Travel_Rarely,Research & Development,Technical Degree,D,Female,C,C,C,Married,7094,No,10,C,7,7,1,7,10,No
+46,Travel_Rarely,Human Resources,Life Sciences,D,Female,C,A,A,Single,3423,No,10,D,7,6,5,7,1,No
+28,Non-Travel,Research & Development,Life Sciences,C,Female,A,B,D,Married,6674,No,10,C,9,8,7,5,1,No
+50,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,D,A,Married,16880,Yes,25,C,3,2,1,2,28,No
+40,Travel_Rarely,Sales,Marketing,D,Male,B,C,B,Single,9094,Yes,9,C,5,4,1,0,25,Yes
+52,Travel_Rarely,Sales,Life Sciences,B,Male,C,C,B,Single,8446,Yes,10,B,8,7,7,7,5,Yes
+30,Travel_Rarely,Research & Development,Medical,B,Female,C,C,A,Married,11916,Yes,9,C,9,1,0,8,17,No
+39,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,B,C,Single,4534,No,9,C,8,7,1,7,18,No
+31,Non-Travel,Sales,Life Sciences,D,Female,C,C,C,Divorced,9852,Yes,10,B,10,8,9,6,2,No
+41,Non-Travel,Sales,Medical,C,Male,A,B,B,Single,6151,No,19,C,19,2,11,9,10,No
+31,Travel_Frequently,Sales,Life Sciences,D,Female,C,A,B,Single,2302,Yes,3,D,3,2,2,2,1,Yes
+44,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,A,Married,2362,No,10,D,3,2,1,2,3,Yes
+42,Non-Travel,Research & Development,Life Sciences,C,Male,C,D,C,Married,17861,Yes,21,B,20,8,2,10,2,No
+55,Travel_Rarely,Research & Development,Medical,D,Female,A,D,C,Married,19187,No,23,C,19,9,9,11,2,No
+56,Travel_Rarely,Human Resources,Life Sciences,D,Male,C,D,B,Single,19717,No,36,C,7,3,7,7,8,No
+40,Non-Travel,Research & Development,Life Sciences,C,Male,C,A,C,Divorced,3544,No,6,C,4,2,0,0,16,No
+34,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,C,D,Divorced,8500,No,10,B,9,7,1,6,9,No
+40,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,B,D,Single,4661,No,9,C,9,8,8,8,2,No
+41,Travel_Frequently,Sales,Marketing,C,Female,C,B,A,Divorced,4103,No,10,C,9,3,1,7,1,No
+35,Travel_Frequently,Research & Development,Life Sciences,C,Male,C,B,C,Single,4249,Yes,9,C,9,6,1,1,4,No
+51,Travel_Rarely,Human Resources,Life Sciences,C,Male,C,D,B,Divorced,14026,Yes,33,C,33,9,0,10,5,No
+38,Travel_Rarely,Sales,Life Sciences,B,Female,C,B,A,Divorced,6893,No,11,C,7,7,1,7,2,No
+34,Travel_Rarely,Sales,Medical,C,Female,C,B,A,Single,6125,No,10,D,10,8,9,6,15,No
+25,Travel_Rarely,Research & Development,Medical,D,Male,C,A,D,Married,3669,No,7,B,3,2,1,2,19,No
+58,Travel_Rarely,Research & Development,Medical,C,Female,B,C,A,Married,10008,Yes,31,B,10,9,5,9,7,Yes
+40,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,B,Married,2387,No,7,C,4,2,0,3,1,No
+36,Travel_Frequently,Sales,Marketing,A,Female,D,B,A,Married,4639,No,17,B,15,7,6,13,7,No
+48,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,C,D,Single,7898,No,11,C,10,9,0,8,4,No
+27,Travel_Rarely,Sales,Medical,C,Female,D,A,D,Married,2534,No,5,C,1,0,0,0,11,No
+51,Travel_Rarely,Research & Development,Technical Degree,D,Female,B,D,B,Single,13142,No,29,B,5,2,0,3,11,No
+18,Non-Travel,Research & Development,Life Sciences,D,Female,C,A,D,Single,1611,No,0,D,0,0,0,0,1,No
+35,Travel_Rarely,Research & Development,Medical,D,Female,B,B,D,Married,5363,No,10,C,9,7,0,0,1,No
+27,Travel_Frequently,Sales,Life Sciences,D,Male,A,B,D,Single,5071,No,8,C,6,2,0,0,2,No
+55,Travel_Rarely,Sales,Marketing,A,Male,D,D,C,Single,13695,Yes,24,B,19,7,3,8,13,Yes
+56,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,D,B,Married,13402,Yes,33,C,19,16,15,9,23,No
+34,Non-Travel,Research & Development,Technical Degree,A,Female,B,A,C,Divorced,2029,No,5,C,5,4,0,0,26,No
+40,Travel_Rarely,Research & Development,Medical,B,Female,D,B,C,Divorced,6377,No,15,C,12,11,11,8,2,No
+34,Travel_Rarely,Research & Development,Medical,B,Male,C,B,C,Married,5429,No,10,C,8,7,7,7,29,No
+31,Travel_Frequently,Sales,Life Sciences,C,Female,B,A,D,Single,2785,No,3,D,1,0,0,0,2,Yes
+35,Travel_Frequently,Sales,Marketing,D,Female,C,B,C,Married,4614,Yes,5,B,4,2,3,2,18,Yes
+38,Travel_Frequently,Research & Development,Life Sciences,D,Male,D,A,C,Divorced,2610,No,4,C,4,2,0,3,7,No
+34,Travel_Rarely,Research & Development,Technical Degree,C,Female,C,B,D,Single,6687,No,14,D,14,11,4,11,2,No
+28,Travel_Rarely,Sales,Life Sciences,C,Male,B,B,A,Married,4724,No,5,C,5,3,0,4,26,No
+31,Travel_Rarely,Research & Development,Medical,D,Male,C,B,C,Married,6179,Yes,10,B,10,2,6,7,22,Yes
+39,Travel_Rarely,Sales,Life Sciences,A,Male,B,B,D,Married,6120,Yes,8,D,5,4,1,4,21,No
+51,Travel_Frequently,Sales,Marketing,B,Male,C,C,B,Married,10596,No,14,C,4,2,3,2,2,No
+41,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,B,D,Divorced,5467,Yes,12,B,6,2,3,3,22,No
+37,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,C,Married,2996,Yes,8,C,6,4,1,3,4,No
+33,Travel_Frequently,Sales,Life Sciences,B,Male,C,B,D,Married,9998,No,8,D,5,4,1,2,5,No
+32,Travel_Rarely,Sales,Marketing,C,Male,C,B,B,Married,4078,Yes,4,B,3,2,1,2,2,No
+39,Non-Travel,Research & Development,Life Sciences,C,Male,C,C,C,Married,10920,No,13,C,6,4,0,5,25,No
+25,Travel_Rarely,Sales,Life Sciences,A,Male,D,B,C,Married,6232,No,6,B,3,2,1,2,18,No
+52,Travel_Frequently,Research & Development,Medical,D,Female,D,D,C,Married,13247,Yes,24,B,5,3,0,2,28,No
+43,Travel_Rarely,Research & Development,Medical,A,Female,B,B,C,Single,4081,Yes,20,A,20,7,1,8,6,No
+27,Travel_Rarely,Sales,Marketing,D,Female,B,B,D,Married,5769,Yes,6,C,6,2,4,4,10,No
+27,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,A,C,Single,2394,Yes,8,C,8,2,7,7,17,Yes
+26,Travel_Rarely,Research & Development,Medical,A,Male,B,A,D,Single,3904,No,5,C,4,3,1,1,2,No
+42,Travel_Rarely,Human Resources,Human Resources,C,Female,C,D,A,Married,16799,No,21,C,20,7,0,9,10,No
+52,Travel_Rarely,Research & Development,Other,C,Female,C,A,A,Married,2950,No,12,A,5,4,0,4,8,No
+37,Travel_Rarely,Research & Development,Medical,A,Female,C,A,C,Single,3629,No,8,C,3,2,0,2,11,No
+35,Travel_Frequently,Research & Development,Life Sciences,C,Male,C,C,D,Single,9362,No,10,C,2,2,2,2,18,No
+25,Travel_Rarely,Research & Development,Technical Degree,A,Male,C,A,D,Married,3229,No,7,B,3,2,0,2,1,No
+26,Travel_Rarely,Research & Development,Other,C,Male,D,A,A,Single,3578,No,8,C,7,7,0,7,7,No
+29,Travel_Rarely,Human Resources,Other,B,Male,B,C,A,Single,7988,No,10,B,10,9,0,9,17,No
+49,Travel_Frequently,Research & Development,Life Sciences,A,Male,B,B,A,Single,4284,No,20,C,4,3,1,3,28,Yes
+29,Travel_Frequently,Research & Development,Other,C,Female,C,C,D,Single,7553,Yes,9,C,8,7,7,7,14,Yes
+54,Travel_Rarely,Research & Development,Medical,D,Female,C,D,D,Single,17328,No,29,B,20,7,12,7,1,No
+58,Travel_Rarely,Research & Development,Medical,D,Female,C,D,A,Married,19701,Yes,32,C,9,8,1,5,1,No
+55,Travel_Rarely,Research & Development,Medical,B,Male,D,D,D,Divorced,14732,No,31,D,7,7,0,0,1,No
+36,Travel_Rarely,Sales,Marketing,A,Female,C,B,B,Single,9278,Yes,15,C,5,4,0,1,3,No
+31,Travel_Frequently,Sales,Life Sciences,B,Female,A,A,C,Single,1359,No,1,C,1,0,0,0,1,Yes
+30,Travel_Rarely,Sales,Marketing,D,Female,C,B,A,Divorced,4779,No,8,C,3,2,0,2,7,No
+31,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,D,B,Single,16422,No,9,D,3,2,1,0,8,No
+34,Travel_Frequently,Research & Development,Other,D,Male,C,A,A,Divorced,2996,No,10,C,4,3,1,3,1,No
+31,Travel_Rarely,Research & Development,Life Sciences,A,Female,B,A,B,Single,1261,No,1,D,1,0,0,0,8,Yes
+27,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,A,Married,2099,No,6,D,5,0,1,4,11,No
+36,Travel_Rarely,Research & Development,Life Sciences,A,Male,B,B,D,Single,5810,No,10,B,10,4,1,8,4,No
+36,Travel_Rarely,Sales,Marketing,C,Female,B,B,A,Married,5647,No,11,B,3,2,0,2,16,No
+47,Travel_Rarely,Research & Development,Technical Degree,A,Male,C,A,D,Married,3420,No,17,B,6,5,1,2,1,No
+25,Travel_Rarely,Sales,Life Sciences,A,Male,B,A,A,Married,4400,No,6,C,3,2,2,2,9,Yes
+37,Non-Travel,Research & Development,Technical Degree,C,Male,D,A,C,Single,3500,No,7,A,6,5,1,3,5,No
+56,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,A,A,Married,2066,No,5,D,3,2,1,0,1,No
+47,Travel_Rarely,Research & Development,Medical,A,Female,C,D,C,Married,17169,No,26,D,20,17,5,6,2,No
+24,Travel_Rarely,Sales,Medical,D,Female,C,B,C,Married,4162,Yes,5,C,5,4,0,3,4,No
+32,Travel_Rarely,Sales,Marketing,D,Male,C,B,D,Married,9204,No,7,B,4,3,0,3,7,No
+34,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,A,B,Married,3294,No,7,B,5,4,0,2,1,No
+41,Travel_Rarely,Research & Development,Medical,B,Male,D,A,C,Married,2127,Yes,7,B,4,2,0,3,5,No
+40,Non-Travel,Research & Development,Other,C,Male,C,B,C,Divorced,3975,No,11,D,8,7,0,7,9,No
+31,Travel_Rarely,Sales,Life Sciences,A,Male,C,C,D,Divorced,10793,No,13,C,13,7,9,9,8,No
+46,Travel_Rarely,Sales,Marketing,A,Male,C,C,D,Divorced,10096,No,28,D,7,7,4,3,9,Yes
+39,Non-Travel,Research & Development,Life Sciences,A,Female,B,A,A,Single,3646,Yes,11,D,1,0,0,0,2,Yes
+31,Travel_Frequently,Research & Development,Life Sciences,C,Female,D,C,B,Single,7446,No,10,C,10,8,4,7,1,Yes
+45,Travel_Rarely,Research & Development,Medical,B,Male,A,C,A,Divorced,10851,Yes,24,C,7,7,0,7,20,No
+31,Travel_Rarely,Human Resources,Medical,D,Female,D,A,B,Single,2109,No,8,C,3,2,0,2,8,No
+31,Travel_Frequently,Research & Development,Life Sciences,B,Male,C,A,D,Married,3722,Yes,7,A,2,2,2,2,2,Yes
+45,Travel_Rarely,Research & Development,Technical Degree,B,Male,C,C,D,Married,9380,Yes,10,D,3,1,1,2,29,No
+48,Travel_Rarely,Sales,Marketing,C,Male,C,B,A,Divorced,5486,No,15,C,2,2,2,2,7,No
+34,Travel_Rarely,Human Resources,Technical Degree,A,Female,C,A,C,Married,2742,No,2,C,2,2,2,2,9,Yes
+40,Non-Travel,Research & Development,Medical,D,Male,B,C,B,Divorced,13757,No,16,C,9,8,4,8,8,No
+28,Travel_Rarely,Sales,Medical,D,Male,C,B,A,Single,8463,No,6,C,5,4,1,3,5,No
+44,Non-Travel,Research & Development,Life Sciences,C,Male,B,A,C,Single,3162,No,7,C,5,2,0,3,5,No
+53,Travel_Rarely,Research & Development,Medical,D,Male,D,D,B,Single,16598,No,35,B,9,8,8,8,2,No
+49,Travel_Rarely,Research & Development,Technical Degree,A,Male,C,B,C,Married,6651,No,20,B,3,2,1,2,5,No
+40,Travel_Rarely,Research & Development,Medical,C,Male,C,A,C,Divorced,2345,No,8,D,3,1,1,2,2,No
+44,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,B,Single,3420,No,6,B,5,2,1,3,20,No
+33,Travel_Frequently,Sales,Medical,D,Male,C,B,A,Married,4373,No,5,C,4,3,0,3,7,No
+34,Travel_Rarely,Sales,Other,D,Male,A,B,A,Single,4759,No,15,C,13,9,3,12,3,No
+30,Travel_Rarely,Sales,Life Sciences,D,Male,C,B,C,Married,5301,No,4,B,2,1,2,2,16,No
+42,Travel_Frequently,Research & Development,Medical,A,Female,C,A,D,Single,3673,No,12,C,12,9,5,8,9,No
+44,Travel_Frequently,Sales,Marketing,A,Female,C,B,C,Married,4768,No,11,B,1,0,0,0,1,No
+30,Non-Travel,Research & Development,Technical Degree,C,Male,C,A,C,Divorced,1274,No,1,B,1,0,0,0,7,No
+57,Travel_Rarely,Research & Development,Life Sciences,B,Male,D,B,C,Married,4900,No,13,B,12,9,2,8,1,No
+49,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,C,B,Divorced,10466,No,29,C,8,7,0,7,7,No
+34,Travel_Frequently,Research & Development,Medical,B,Male,C,D,A,Divorced,17007,No,16,B,14,8,6,9,15,No
+28,Travel_Frequently,Sales,Technical Degree,A,Male,C,A,C,Married,2909,No,5,D,3,2,1,2,1,Yes
+29,Travel_Frequently,Sales,Technical Degree,A,Female,C,B,B,Single,5765,No,7,A,5,3,0,0,13,Yes
+34,Travel_Rarely,Sales,Medical,A,Female,B,B,B,Single,4599,Yes,16,D,15,9,10,10,24,Yes
+35,Travel_Rarely,Sales,Life Sciences,D,Male,C,A,C,Married,2404,No,1,C,1,0,0,0,7,No
+24,Travel_Frequently,Research & Development,Medical,B,Male,C,A,A,Single,3172,Yes,4,B,0,0,0,0,9,Yes
+24,Non-Travel,Sales,Life Sciences,D,Female,C,A,B,Married,2033,No,1,C,1,0,0,0,13,No
+44,Travel_Frequently,Research & Development,Medical,B,Male,C,C,C,Single,10209,Yes,16,B,2,2,2,2,2,No
+29,Travel_Rarely,Sales,Life Sciences,C,Male,B,B,C,Divorced,8620,No,10,C,10,7,0,4,19,No
+30,Travel_Rarely,Human Resources,Life Sciences,C,Male,C,A,C,Divorced,2064,No,6,D,5,3,1,3,1,No
+55,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,C,Married,4035,Yes,4,C,3,2,1,2,4,No
+33,Travel_Rarely,Research & Development,Medical,A,Female,B,A,B,Married,3838,No,8,C,5,4,0,2,4,No
+47,Travel_Rarely,Sales,Medical,C,Female,C,B,C,Married,4591,Yes,11,B,5,4,1,2,14,No
+28,Travel_Frequently,Research & Development,Medical,C,Male,B,A,A,Single,2561,No,8,B,0,0,0,0,2,Yes
+28,Travel_Rarely,Research & Development,Life Sciences,A,Male,B,A,C,Divorced,1563,No,1,A,1,0,0,0,1,No
+28,Travel_Frequently,Sales,Life Sciences,C,Male,C,B,A,Single,4898,No,5,C,4,2,1,3,7,No
+49,Travel_Rarely,Research & Development,Medical,C,Female,B,B,A,Married,4789,No,10,C,3,2,1,2,3,No
+29,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,A,B,Married,3180,No,4,C,3,2,0,2,2,No
+28,Travel_Rarely,Research & Development,Life Sciences,C,Male,A,B,B,Married,6549,No,8,B,8,6,1,7,29,No
+33,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,C,Single,6388,Yes,14,C,0,0,0,0,8,No
+32,Travel_Rarely,Research & Development,Medical,C,Male,C,C,D,Single,11244,No,10,D,5,2,0,0,10,No
+54,Travel_Frequently,Research & Development,Medical,B,Female,C,D,D,Divorced,16032,No,26,C,14,9,1,12,11,No
+29,Travel_Rarely,Research & Development,Technical Degree,A,Male,B,A,A,Single,2362,No,11,A,9,7,0,7,1,Yes
+44,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,D,A,Married,16328,No,24,D,20,6,14,17,28,No
+39,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,C,B,Single,8376,No,9,C,2,0,2,2,6,No
+46,Travel_Rarely,Sales,Life Sciences,C,Female,C,D,B,Married,16606,No,23,D,13,12,5,1,3,No
+35,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,C,B,Single,8606,No,11,A,11,8,3,3,16,No
+23,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,B,C,Single,2272,No,5,C,4,3,1,2,20,No
+40,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,A,Single,2018,No,15,A,5,4,1,0,9,Yes
+34,Travel_Rarely,Sales,Technical Degree,D,Male,B,C,C,Married,7083,Yes,10,C,10,9,8,6,1,No
+31,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,A,C,Single,4084,No,7,A,7,2,7,7,3,Yes
+50,Travel_Frequently,Research & Development,Medical,C,Male,A,D,D,Single,14411,Yes,32,C,32,6,13,9,22,No
+34,Travel_Rarely,Sales,Technical Degree,B,Male,C,A,C,Married,2308,Yes,12,C,11,10,5,7,7,No
+42,Travel_Rarely,Research & Development,Medical,C,Male,B,A,B,Married,4841,No,4,C,1,0,0,0,2,No
+37,Travel_Rarely,Research & Development,Medical,A,Male,C,B,D,Married,4285,No,10,C,10,8,3,7,13,No
+29,Travel_Rarely,Research & Development,Other,C,Female,A,B,A,Married,9715,No,9,C,7,7,0,7,8,No
+33,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,B,B,Single,4320,No,5,C,5,3,0,2,25,No
+45,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,A,D,Married,2132,No,8,C,5,4,0,3,28,No
+42,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,C,D,Married,10124,Yes,24,A,20,8,13,9,2,No
+40,Travel_Rarely,Sales,Medical,A,Male,C,B,A,Married,5473,No,9,D,8,4,7,1,9,No
+33,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,B,C,Married,5207,Yes,15,C,15,14,5,7,28,No
+40,Travel_Rarely,Human Resources,Medical,C,Male,C,D,D,Single,16437,Yes,21,C,21,7,7,7,6,No
+24,Travel_Rarely,Research & Development,Technical Degree,C,Male,B,A,A,Divorced,2296,No,2,C,1,1,0,0,21,No
+40,Non-Travel,Research & Development,Life Sciences,D,Male,C,B,D,Divorced,4069,Yes,8,C,2,2,2,2,8,No
+45,Travel_Rarely,Research & Development,Technical Degree,A,Male,C,C,B,Divorced,7441,No,10,C,10,8,7,7,1,No
+35,Travel_Rarely,Sales,Life Sciences,B,Female,B,A,C,Married,2430,No,6,C,5,3,4,2,28,No
+32,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,B,B,Married,5878,No,12,C,7,1,2,5,5,No
+36,Travel_Rarely,Sales,Life Sciences,C,Male,C,A,D,Single,2644,Yes,7,B,3,2,1,2,2,No
+48,Travel_Rarely,Sales,Life Sciences,C,Female,C,B,C,Divorced,6439,No,18,C,8,7,7,7,16,No
+29,Travel_Rarely,Research & Development,Life Sciences,C,Male,D,A,C,Married,2451,No,5,B,1,0,0,0,9,No
+33,Travel_Rarely,Sales,Life Sciences,A,Male,C,B,A,Married,6392,No,8,A,2,2,2,2,8,No
+30,Travel_Rarely,Sales,Life Sciences,B,Male,B,B,A,Married,9714,No,10,C,10,8,6,7,1,Yes
+38,Travel_Frequently,Human Resources,Human Resources,C,Male,C,B,C,Married,6077,No,10,C,6,3,1,2,10,No
+35,Travel_Rarely,Research & Development,Medical,D,Male,B,A,A,Single,2450,No,3,C,3,0,1,2,1,No
+30,Travel_Rarely,Sales,Technical Degree,C,Male,C,C,B,Married,9250,No,9,C,4,2,1,3,29,No
+35,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,A,A,Divorced,2074,Yes,1,C,1,0,0,0,2,Yes
+53,Travel_Rarely,Research & Development,Technical Degree,C,Female,B,C,D,Married,10169,No,34,C,33,7,1,9,2,Yes
+38,Travel_Rarely,Research & Development,Medical,C,Male,C,B,B,Married,4855,No,7,C,5,2,1,4,2,Yes
+32,Non-Travel,Research & Development,Technical Degree,D,Male,C,B,A,Married,4087,No,9,B,6,5,1,2,1,No
+48,Travel_Rarely,Research & Development,Other,C,Female,C,A,A,Married,2367,No,10,B,8,2,7,6,15,No
+34,Travel_Rarely,Research & Development,Medical,A,Male,C,A,D,Single,2972,No,1,A,1,0,0,0,7,No
+55,Travel_Rarely,Sales,Marketing,C,Male,B,D,D,Married,19586,No,36,C,36,6,2,13,26,No
+34,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,B,D,Married,5484,No,9,B,2,2,2,1,1,No
+26,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,A,D,Married,2061,No,1,C,1,0,0,0,3,No
+38,Travel_Rarely,Sales,Life Sciences,C,Male,C,B,B,Married,9924,No,10,C,9,8,7,7,14,No
+38,Travel_Rarely,Sales,Life Sciences,B,Female,C,B,B,Single,4198,No,8,D,3,2,1,2,16,No
+36,Travel_Rarely,Sales,Life Sciences,B,Female,C,B,C,Single,6815,No,15,C,1,0,0,0,1,No
+29,Travel_Rarely,Research & Development,Medical,B,Male,C,A,A,Single,4723,Yes,10,C,10,9,1,5,3,No
+35,Travel_Rarely,Research & Development,Medical,A,Female,C,B,C,Single,6142,Yes,10,C,5,2,0,4,10,No
+39,Travel_Rarely,Sales,Medical,D,Male,D,C,C,Married,8237,No,11,C,7,6,7,6,6,No
+29,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,B,D,Divorced,8853,No,6,D,6,4,1,3,2,No
+50,Travel_Rarely,Sales,Marketing,C,Male,C,D,C,Married,19331,Yes,27,C,1,0,0,0,9,No
+23,Travel_Rarely,Research & Development,Technical Degree,D,Male,D,A,C,Married,2073,No,4,C,2,2,2,2,10,No
+36,Travel_Frequently,Research & Development,Life Sciences,A,Male,D,B,A,Married,5562,Yes,9,C,3,2,0,2,6,No
+42,Travel_Rarely,Research & Development,Other,D,Male,B,D,D,Single,19613,No,24,C,1,0,0,1,9,No
+35,Travel_Rarely,Research & Development,Life Sciences,B,Male,D,B,C,Married,3407,No,10,B,10,9,6,8,28,No
+34,Travel_Frequently,Research & Development,Technical Degree,D,Male,B,B,C,Married,5063,No,8,B,8,2,7,7,10,No
+40,Travel_Rarely,Sales,Life Sciences,D,Female,C,B,A,Married,4639,No,5,C,5,4,1,2,14,No
+43,Travel_Rarely,Research & Development,Technical Degree,D,Male,D,A,B,Divorced,4876,No,8,C,6,4,0,2,27,No
+35,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,A,D,Married,2690,No,1,B,1,0,0,1,7,No
+46,Travel_Rarely,Sales,Life Sciences,D,Male,D,D,A,Single,17567,No,27,A,26,0,0,12,1,No
+28,Travel_Rarely,Research & Development,Medical,C,Male,C,A,B,Married,2408,Yes,1,C,1,1,0,0,24,Yes
+22,Non-Travel,Research & Development,Other,B,Female,B,A,C,Married,2814,Yes,4,B,4,2,1,3,26,No
+50,Travel_Frequently,Research & Development,Medical,B,Male,C,D,C,Married,11245,Yes,32,C,30,8,12,13,20,No
+32,Travel_Rarely,Research & Development,Other,B,Female,D,A,D,Married,3312,No,6,C,3,2,0,2,5,No
+44,Travel_Rarely,Research & Development,Medical,B,Female,C,D,D,Divorced,19049,Yes,23,B,22,7,1,10,7,No
+30,Travel_Rarely,Research & Development,Medical,B,Male,B,A,B,Married,2141,No,6,B,6,4,1,1,7,No
+45,Travel_Rarely,Research & Development,Medical,C,Female,A,B,A,Single,5769,Yes,10,C,10,7,1,4,5,No
+45,Non-Travel,Sales,Marketing,A,Male,B,B,A,Married,4385,No,10,C,10,7,4,5,26,No
+31,Travel_Frequently,Sales,Other,D,Male,C,B,A,Single,5332,No,10,C,5,2,0,3,2,No
+36,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,B,C,Married,4663,Yes,7,C,3,2,1,1,12,No
+34,Travel_Frequently,Research & Development,Life Sciences,C,Male,D,B,D,Divorced,4724,No,9,C,9,7,7,2,10,No
+49,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,A,A,Married,3211,No,10,B,9,6,1,4,25,No
+39,Travel_Rarely,Research & Development,Medical,B,Male,C,B,A,Married,5377,No,10,C,7,7,7,7,10,No
+27,Travel_Rarely,Research & Development,Other,D,Male,B,A,A,Divorced,4066,No,7,C,7,7,0,7,19,No
+35,Travel_Rarely,Research & Development,Life Sciences,B,Male,D,B,A,Married,5208,No,16,C,16,15,1,10,18,No
+28,Travel_Rarely,Research & Development,Medical,B,Female,A,B,A,Divorced,4877,No,6,B,5,3,0,0,27,No
+21,Travel_Rarely,Research & Development,Medical,C,Male,C,A,D,Single,3117,No,3,C,2,2,2,2,5,No
+18,Travel_Frequently,Sales,Medical,B,Female,C,A,D,Single,1569,Yes,0,D,0,0,0,0,3,Yes
+47,Travel_Rarely,Human Resources,Life Sciences,D,Female,C,D,C,Married,19658,No,27,C,5,2,1,0,26,No
+39,Travel_Rarely,Research & Development,Medical,C,Male,B,B,C,Divorced,3069,No,11,C,10,8,0,7,3,No
+40,Travel_Rarely,Research & Development,Life Sciences,A,Female,B,C,C,Married,10435,No,18,C,18,15,14,12,15,No
+35,Non-Travel,Research & Development,Life Sciences,C,Female,C,B,C,Married,4148,No,15,C,14,11,2,9,8,No
+37,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,B,C,Married,5768,No,9,B,4,3,0,2,19,No
+39,Travel_Frequently,Research & Development,Medical,A,Female,C,B,C,Single,5042,No,10,A,9,2,3,8,4,No
+45,Travel_Rarely,Research & Development,Other,D,Female,B,B,D,Divorced,5770,No,10,C,10,7,3,9,2,No
+38,Travel_Rarely,Research & Development,Medical,D,Female,B,C,C,Married,7756,Yes,10,D,5,4,0,2,2,No
+35,Travel_Rarely,Sales,Medical,D,Male,B,C,A,Married,10306,No,15,C,13,12,6,0,10,Yes
+37,Travel_Rarely,Research & Development,Medical,B,Female,C,A,B,Married,3936,No,8,A,8,4,7,7,10,No
+40,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,C,D,Single,7945,Yes,18,B,4,2,3,3,16,No
+44,Travel_Frequently,Human Resources,Human Resources,A,Male,C,B,D,Married,5743,Yes,14,C,10,7,0,2,1,No
+48,Travel_Frequently,Research & Development,Medical,C,Male,B,D,D,Married,15202,No,23,C,2,2,2,2,4,No
+35,Travel_Rarely,Sales,Medical,A,Male,A,B,D,Divorced,5440,Yes,7,B,2,2,2,2,15,Yes
+24,Travel_Frequently,Research & Development,Technical Degree,A,Female,C,A,D,Single,3760,Yes,6,C,6,3,1,3,2,No
+27,Travel_Rarely,Research & Development,Medical,B,Female,D,A,C,Married,3517,No,5,C,3,2,0,2,8,No
+27,Travel_Frequently,Research & Development,Medical,D,Male,C,A,D,Single,2580,No,6,B,4,2,1,2,2,No
+40,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,A,Single,2166,Yes,10,A,4,2,0,3,7,Yes
+29,Travel_Rarely,Sales,Medical,C,Male,B,B,C,Single,5869,No,8,C,5,2,1,4,10,No
+36,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,C,A,Married,8008,No,9,C,3,2,0,2,5,No
+25,Travel_Frequently,Research & Development,Life Sciences,D,Male,D,B,C,Divorced,5206,No,7,C,7,7,0,7,2,No
+39,Travel_Rarely,Research & Development,Medical,D,Male,C,B,B,Married,5295,No,7,C,5,4,1,0,12,No
+49,Travel_Rarely,Research & Development,Other,A,Female,C,D,B,Married,16413,No,27,C,4,2,1,2,22,No
+50,Travel_Rarely,Research & Development,Life Sciences,D,Female,B,C,A,Divorced,13269,No,19,C,14,11,1,11,17,No
+20,Travel_Rarely,Sales,Medical,C,Female,C,A,C,Single,2783,No,2,C,2,2,2,2,2,No
+34,Travel_Rarely,Research & Development,Life Sciences,D,Female,C,B,B,Divorced,5433,No,11,C,11,8,7,9,3,No
+36,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,B,Single,2013,No,15,C,4,3,1,3,7,No
+49,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,D,C,Married,13966,Yes,30,C,15,11,2,12,6,No
+36,Non-Travel,Research & Development,Medical,D,Female,B,B,C,Married,4374,No,4,C,3,2,1,2,1,No
+36,Travel_Rarely,Research & Development,Life Sciences,D,Male,D,B,A,Divorced,6842,No,13,C,5,4,0,4,3,No
+54,Travel_Rarely,Research & Development,Medical,B,Female,C,D,C,Married,17426,No,36,C,10,8,4,7,22,No
+43,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,D,C,Married,17603,No,14,C,14,10,6,11,15,No
+35,Travel_Frequently,Sales,Other,D,Male,C,B,D,Single,4581,Yes,13,D,11,9,6,7,12,Yes
+38,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,B,D,Married,4735,No,19,D,13,11,2,9,1,No
+29,Travel_Rarely,Sales,Medical,A,Male,B,B,B,Divorced,4187,Yes,10,B,10,0,0,9,5,No
+33,Travel_Rarely,Sales,Medical,D,Male,C,B,D,Divorced,5505,No,6,C,6,2,0,4,2,No
+32,Travel_Rarely,Research & Development,Medical,D,Male,C,B,B,Divorced,5470,No,10,B,9,5,1,6,2,No
+31,Travel_Rarely,Sales,Life Sciences,A,Female,C,B,D,Married,5476,No,10,C,10,0,0,2,5,No
+49,Travel_Rarely,Research & Development,Medical,D,Female,C,A,A,Divorced,2587,Yes,17,B,2,2,2,2,16,No
+38,Travel_Frequently,Research & Development,Medical,D,Female,B,A,B,Single,2440,No,4,C,4,3,3,3,2,No
+47,Travel_Rarely,Sales,Life Sciences,B,Female,D,D,B,Divorced,15972,No,29,C,3,2,1,2,2,No
+49,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,D,C,Single,15379,No,23,C,8,7,0,0,1,No
+41,Travel_Rarely,Sales,Life Sciences,D,Male,C,C,C,Single,7082,Yes,21,C,2,0,0,2,23,No
+20,Travel_Rarely,Sales,Life Sciences,D,Male,C,A,A,Single,2728,No,2,C,2,2,0,2,9,No
+33,Non-Travel,Sales,Life Sciences,C,Female,C,B,D,Divorced,5368,Yes,7,C,6,5,1,2,16,No
+36,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,B,C,Married,5347,No,10,B,3,2,0,2,26,No
+44,Travel_Rarely,Human Resources,Life Sciences,C,Female,C,A,D,Divorced,3195,Yes,8,C,2,2,2,2,1,No
+23,Travel_Rarely,Research & Development,Medical,D,Male,B,A,C,Single,3989,Yes,5,C,5,4,1,2,8,Yes
+38,Travel_Rarely,Research & Development,Medical,D,Female,C,A,C,Married,3306,No,7,B,0,0,0,0,4,No
+53,Travel_Rarely,Research & Development,Medical,B,Male,D,C,D,Married,7005,No,11,C,4,3,1,2,24,No
+48,Travel_Frequently,Sales,Medical,D,Female,C,A,C,Married,2655,Yes,19,C,9,7,7,7,7,Yes
+32,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,B,Single,1393,No,1,C,1,0,0,0,2,Yes
+26,Non-Travel,Research & Development,Medical,D,Male,C,A,D,Single,2570,No,7,C,7,7,5,7,7,No
+55,Travel_Rarely,Research & Development,Technical Degree,A,Male,B,A,B,Divorced,3537,No,8,C,4,2,1,2,22,No
+34,Travel_Rarely,Research & Development,Medical,B,Male,B,B,D,Married,3986,No,15,D,15,10,4,13,5,No
+60,Travel_Rarely,Research & Development,Medical,C,Male,A,C,D,Divorced,10883,No,19,D,1,0,0,0,1,No
+33,Travel_Rarely,Research & Development,Medical,B,Male,D,A,B,Married,2028,No,14,C,14,11,2,13,21,No
+37,Travel_Frequently,Sales,Medical,C,Male,A,B,D,Divorced,9525,No,6,B,6,3,1,3,1,No
+34,Travel_Rarely,Research & Development,Life Sciences,B,Female,B,A,D,Married,2929,No,10,C,10,9,8,7,19,No
+23,Travel_Rarely,Sales,Life Sciences,C,Male,C,A,D,Divorced,2275,Yes,3,C,3,2,0,2,7,Yes
+44,Travel_Rarely,Research & Development,Life Sciences,C,Female,D,C,D,Married,7879,Yes,9,C,8,7,6,7,2,No
+35,Travel_Frequently,Research & Development,Medical,A,Male,B,A,D,Single,4930,Yes,6,D,5,4,1,4,2,No
+43,Travel_Rarely,Sales,Medical,D,Male,C,B,D,Married,7847,Yes,10,C,10,9,8,8,2,No
+24,Travel_Rarely,Research & Development,Medical,C,Male,D,A,C,Married,4401,No,5,C,5,3,0,4,9,No
+41,Travel_Rarely,Sales,Marketing,D,Male,C,C,C,Single,9241,No,10,C,10,8,8,7,6,No
+29,Travel_Rarely,Research & Development,Medical,D,Female,C,A,C,Married,2974,No,9,C,5,3,1,2,9,No
+36,Travel_Rarely,Sales,Life Sciences,C,Female,C,B,D,Single,4502,No,17,B,13,7,6,7,2,No
+45,Non-Travel,Research & Development,Life Sciences,C,Male,B,C,C,Married,10748,No,25,B,23,15,14,4,1,No
+24,Travel_Rarely,Human Resources,Human Resources,D,Male,A,A,C,Married,1555,No,1,C,1,0,0,0,22,Yes
+47,Travel_Frequently,Sales,Life Sciences,C,Male,A,D,C,Married,12936,No,25,A,23,5,14,10,9,Yes
+26,Travel_Rarely,Research & Development,Medical,D,Male,A,A,C,Married,2305,No,3,D,3,2,0,2,17,No
+45,Travel_Rarely,Research & Development,Technical Degree,D,Female,B,D,B,Single,16704,No,21,C,21,6,8,6,28,No
+32,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,A,C,Married,3433,No,10,B,5,2,1,3,10,No
+31,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,C,Married,3477,No,6,D,5,2,0,3,2,No
+41,Non-Travel,Human Resources,Human Resources,C,Male,A,B,B,Married,6430,No,10,C,3,2,1,2,4,No
+40,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,B,A,Married,6516,Yes,18,C,1,0,0,0,8,No
+24,Travel_Rarely,Research & Development,Medical,B,Male,C,A,A,Divorced,3907,No,6,D,6,2,1,2,29,No
+46,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,B,B,Single,5562,No,19,C,10,7,0,9,13,No
+35,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,C,Married,6883,No,17,C,7,7,0,7,27,No
+30,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,D,Married,2862,No,10,B,10,0,0,8,16,No
+47,Non-Travel,Sales,Marketing,C,Male,C,B,B,Married,4978,No,4,A,1,0,0,0,2,No
+46,Travel_Rarely,Sales,Life Sciences,C,Male,C,C,D,Divorced,10368,Yes,13,B,10,6,0,3,2,No
+36,Travel_Rarely,Sales,Marketing,B,Male,B,B,A,Divorced,6134,Yes,16,C,2,2,2,2,13,Yes
+32,Travel_Rarely,Sales,Life Sciences,A,Male,A,B,B,Single,6735,No,10,C,0,0,0,0,1,Yes
+23,Travel_Rarely,Research & Development,Medical,C,Female,C,A,B,Single,3295,No,3,A,3,2,1,2,4,No
+31,Travel_Frequently,Research & Development,Technical Degree,D,Female,C,B,D,Single,5238,No,9,B,5,4,1,4,24,No
+39,Non-Travel,Research & Development,Life Sciences,D,Male,C,B,D,Married,6472,Yes,9,C,9,8,5,8,1,No
+32,Travel_Rarely,Sales,Life Sciences,D,Male,A,C,C,Married,9610,No,10,A,4,3,0,2,19,No
+40,Travel_Rarely,Sales,Medical,B,Male,C,D,B,Single,19833,No,21,B,21,8,12,8,7,No
+45,Travel_Rarely,Human Resources,Life Sciences,C,Female,A,C,C,Married,9756,No,9,D,5,0,0,3,4,No
+30,Travel_Frequently,Research & Development,Technical Degree,D,Female,B,A,A,Single,4968,No,10,C,9,7,0,7,2,No
+24,Travel_Frequently,Human Resources,Medical,A,Male,C,A,D,Married,2145,No,3,C,2,2,2,1,10,No
+30,Travel_Frequently,Human Resources,Human Resources,C,Female,B,A,D,Divorced,2180,No,6,B,4,2,1,2,8,Yes
+31,Travel_Rarely,Sales,Technical Degree,A,Male,C,B,C,Married,8346,No,6,C,5,2,0,2,5,No
+27,Travel_Rarely,Research & Development,Medical,C,Female,C,A,D,Single,3445,No,6,B,6,2,1,4,8,No
+29,Travel_Rarely,Sales,Marketing,B,Female,A,A,B,Single,2760,No,2,C,2,2,2,2,9,Yes
+29,Travel_Frequently,Research & Development,Life Sciences,D,Male,D,B,C,Single,6294,Yes,10,D,3,2,0,2,1,No
+30,Travel_Rarely,Sales,Marketing,C,Male,B,C,A,Divorced,7140,No,12,C,7,7,1,7,15,No
+34,Travel_Rarely,Research & Development,Medical,D,Male,D,A,D,Married,2932,Yes,6,C,5,0,1,2,2,No
+33,Non-Travel,Sales,Marketing,D,Female,C,B,B,Single,5147,No,13,B,11,7,1,7,2,No
+49,Travel_Rarely,Sales,Marketing,D,Female,C,B,D,Single,4507,No,8,D,5,1,0,4,11,No
+33,Travel_Rarely,Sales,Life Sciences,A,Female,C,C,A,Single,8564,Yes,11,B,0,0,0,0,16,Yes
+38,Travel_Frequently,Research & Development,Medical,C,Female,B,A,B,Married,2468,No,9,B,6,1,0,5,2,No
+31,Travel_Rarely,Sales,Marketing,A,Male,C,C,C,Married,8161,No,10,C,1,0,0,0,16,Yes
+29,Travel_Rarely,Research & Development,Technical Degree,D,Female,B,A,A,Divorced,2109,No,1,C,1,0,0,0,4,No
+30,Travel_Rarely,Research & Development,Life Sciences,C,Male,D,B,C,Married,5294,No,10,C,7,0,1,7,16,No
+32,Non-Travel,Research & Development,Technical Degree,B,Male,C,A,B,Single,2718,No,12,C,7,7,0,7,5,No
+38,Travel_Rarely,Research & Development,Medical,B,Male,A,B,D,Married,5811,Yes,15,C,1,0,1,0,18,No
+43,Travel_Frequently,Research & Development,Technical Degree,C,Male,B,A,C,Married,2437,Yes,6,C,1,0,0,0,17,Yes
+42,Travel_Rarely,Research & Development,Medical,B,Male,C,A,B,Divorced,2766,No,7,B,5,3,0,4,12,No
+55,Travel_Rarely,Research & Development,Medical,C,Male,B,D,A,Married,19038,No,34,C,1,0,0,0,2,No
+33,Non-Travel,Research & Development,Technical Degree,D,Male,C,B,B,Divorced,3055,No,11,B,9,8,1,7,4,No
+41,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,A,Divorced,2289,No,5,C,5,3,0,4,9,No
+34,Non-Travel,Sales,Life Sciences,D,Male,C,B,C,Divorced,4001,Yes,15,C,15,14,0,7,10,No
+53,Non-Travel,Research & Development,Medical,A,Female,B,D,C,Married,12965,Yes,27,B,3,2,0,2,1,No
+43,Travel_Rarely,Human Resources,Life Sciences,B,Male,C,A,D,Single,3539,No,10,C,9,7,1,8,2,No
+34,Travel_Rarely,Sales,Life Sciences,D,Female,A,B,D,Single,6029,No,6,C,2,2,2,2,3,No
+21,Travel_Rarely,Sales,Marketing,B,Male,C,A,B,Single,2679,No,1,C,1,0,1,0,7,Yes
+38,Travel_Rarely,Research & Development,Other,D,Female,B,A,C,Married,3702,No,5,C,5,4,0,4,6,No
+22,Travel_Rarely,Research & Development,Medical,C,Female,C,A,A,Married,2398,Yes,1,C,1,0,0,0,8,Yes
+31,Travel_Rarely,Sales,Marketing,A,Female,B,B,D,Married,5468,No,13,C,12,7,5,7,29,No
+51,Travel_Rarely,Research & Development,Technical Degree,A,Female,C,C,C,Married,13116,No,15,C,2,2,2,2,3,No
+37,Travel_Rarely,Sales,Marketing,B,Male,B,B,B,Married,4189,No,5,C,5,2,0,3,9,No
+46,Travel_Rarely,Research & Development,Medical,C,Male,C,D,D,Divorced,19328,Yes,24,C,2,1,2,2,2,No
+36,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,C,A,Married,8321,Yes,15,C,12,8,5,7,10,No
+44,Travel_Frequently,Research & Development,Medical,C,Male,C,A,B,Divorced,2342,Yes,6,B,5,3,2,3,1,Yes
+37,Travel_Rarely,Human Resources,Other,C,Male,C,B,B,Divorced,4071,No,19,B,10,0,4,7,8,No
+35,Travel_Rarely,Sales,Life Sciences,C,Male,C,B,D,Single,5813,Yes,10,C,10,7,7,7,27,Yes
+33,Travel_Rarely,Research & Development,Life Sciences,D,Male,D,A,A,Married,3143,No,14,C,10,8,7,6,8,No
+28,Travel_Rarely,Research & Development,Life Sciences,C,Male,C,A,D,Married,2044,No,5,D,5,3,0,3,1,No
+39,Travel_Rarely,Research & Development,Medical,C,Male,C,C,C,Single,13464,No,9,C,4,3,2,2,10,No
+46,Non-Travel,Sales,Life Sciences,B,Male,B,B,B,Single,7991,No,6,C,2,2,2,2,26,No
+40,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,A,A,Married,3377,No,7,B,4,3,0,2,2,No
+42,Travel_Rarely,Research & Development,Medical,B,Male,D,B,A,Married,5538,No,10,B,0,0,0,0,13,No
+35,Non-Travel,Research & Development,Medical,B,Male,C,B,D,Divorced,5762,No,15,C,7,7,1,7,2,No
+38,Non-Travel,Human Resources,Human Resources,A,Male,C,A,B,Divorced,2592,No,13,C,11,10,3,8,2,No
+34,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,B,A,Married,5346,No,11,B,7,1,0,7,9,Yes
+37,Travel_Rarely,Research & Development,Medical,D,Male,C,B,A,Single,4213,No,10,A,10,3,0,8,10,Yes
+39,Travel_Frequently,Sales,Life Sciences,C,Male,C,B,D,Divorced,4127,No,7,C,2,1,2,2,20,No
+43,Non-Travel,Research & Development,Life Sciences,A,Male,C,A,C,Single,2438,No,7,B,3,2,1,2,9,No
+41,Travel_Rarely,Research & Development,Life Sciences,B,Male,D,B,B,Single,6870,No,11,A,3,2,1,2,5,No
+41,Travel_Rarely,Sales,Marketing,C,Female,C,C,C,Divorced,10447,Yes,23,D,22,14,13,5,4,No
+30,Travel_Rarely,Research & Development,Medical,A,Female,C,C,C,Single,9667,No,9,C,7,7,0,2,10,No
+26,Travel_Rarely,Human Resources,Medical,D,Female,C,A,B,Married,2148,Yes,6,C,5,1,1,4,20,Yes
+46,Travel_Rarely,Research & Development,Medical,D,Female,C,B,B,Married,8926,No,13,D,9,7,3,7,21,Yes
+40,Travel_Rarely,Research & Development,Life Sciences,C,Female,C,B,D,Divorced,6513,No,12,C,5,3,0,3,1,No
+34,Travel_Rarely,Sales,Technical Degree,B,Male,D,B,C,Married,6799,No,10,C,10,8,4,8,8,No
+58,Non-Travel,Sales,Medical,B,Male,C,D,B,Divorced,16291,No,37,B,16,9,14,14,2,No
+35,Travel_Rarely,Research & Development,Medical,B,Male,A,A,C,Married,2705,No,6,D,5,4,0,3,23,No
+47,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,C,B,Divorced,10333,Yes,28,C,22,11,14,10,4,No
+40,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,B,A,Divorced,4448,No,15,C,7,4,7,7,12,No
+54,Travel_Rarely,Research & Development,Medical,D,Female,C,B,D,Married,6854,No,14,B,7,1,1,7,7,No
+31,Travel_Frequently,Sales,Marketing,A,Female,C,C,A,Married,9637,No,9,C,3,2,2,2,7,No
+28,Travel_Rarely,Research & Development,Medical,C,Female,C,A,A,Married,3591,No,3,C,3,2,1,2,1,No
+38,Travel_Rarely,Sales,Marketing,B,Female,A,B,D,Married,5405,Yes,20,B,4,2,0,3,2,No
+26,Travel_Rarely,Sales,Medical,C,Male,C,B,D,Single,4684,No,5,C,5,3,1,2,10,No
+58,Travel_Frequently,Research & Development,Life Sciences,A,Male,C,D,C,Married,15787,Yes,23,C,2,2,2,2,15,No
+18,Non-Travel,Research & Development,Medical,B,Female,C,A,C,Single,1514,No,0,A,0,0,0,0,14,No
+31,Travel_Rarely,Human Resources,Human Resources,D,Male,D,A,A,Married,2956,No,2,C,1,0,0,0,18,Yes
+29,Travel_Rarely,Human Resources,Human Resources,A,Male,B,A,A,Divorced,2335,Yes,4,C,2,2,2,0,13,Yes
+45,Non-Travel,Sales,Life Sciences,C,Female,C,B,C,Married,5154,No,10,D,8,7,5,7,2,No
+36,Travel_Rarely,Research & Development,Other,D,Female,C,B,B,Married,6962,Yes,15,C,1,0,0,0,2,No
+43,Travel_Frequently,Sales,Life Sciences,A,Male,C,B,D,Married,5675,No,7,C,7,7,7,7,2,No
+27,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,A,D,Single,2379,Yes,6,B,5,4,0,2,5,No
+29,Travel_Frequently,Research & Development,Medical,D,Male,C,A,D,Married,3812,No,11,D,11,8,3,10,20,No
+32,Travel_Frequently,Sales,Marketing,D,Male,C,B,D,Single,4648,No,4,D,0,0,0,0,10,No
+42,Non-Travel,Research & Development,Technical Degree,C,Male,C,A,C,Married,2936,No,10,B,6,3,3,3,10,No
+47,Travel_Rarely,Research & Development,Life Sciences,B,Female,C,A,C,Single,2105,No,7,C,2,2,2,0,9,No
+46,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,C,D,Divorced,8578,No,12,B,9,8,4,7,2,No
+28,Non-Travel,Human Resources,Life Sciences,C,Male,C,A,D,Divorced,2706,No,3,C,3,2,2,2,1,No
+29,Travel_Rarely,Research & Development,Life Sciences,D,Male,A,B,C,Divorced,6384,No,11,C,7,0,1,6,29,No
+42,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,C,Single,3968,No,8,C,0,0,0,0,8,No
+32,Travel_Rarely,Sales,Marketing,C,Male,B,B,B,Single,9907,Yes,7,B,2,2,2,2,2,Yes
+46,Travel_Rarely,Sales,Technical Degree,A,Female,D,D,A,Divorced,13225,No,25,C,19,17,2,8,3,No
+27,Travel_Rarely,Sales,Medical,B,Female,B,B,C,Married,3540,No,9,C,9,8,5,8,23,No
+29,Travel_Rarely,Human Resources,Medical,D,Male,B,A,B,Married,2804,No,1,C,1,0,0,0,6,No
+43,Travel_Rarely,Research & Development,Medical,A,Female,B,D,C,Married,19392,No,21,C,16,12,6,14,6,No
+48,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,D,B,Married,19665,No,29,C,22,10,12,9,10,No
+29,Travel_Frequently,Research & Development,Life Sciences,D,Male,B,A,D,Single,2439,Yes,1,B,1,0,1,0,24,Yes
+46,Travel_Rarely,Sales,Life Sciences,C,Female,C,C,B,Married,7314,No,14,C,8,7,0,7,10,Yes
+27,Travel_Frequently,Research & Development,Life Sciences,D,Female,B,A,A,Married,4774,No,8,B,7,6,7,3,15,No
+39,Travel_Rarely,Research & Development,Other,D,Male,C,B,D,Divorced,3902,No,7,C,2,2,2,2,19,No
+55,Travel_Rarely,Research & Development,Technical Degree,B,Male,B,A,D,Married,2662,No,19,D,5,2,0,4,2,No
+28,Travel_Rarely,Sales,Medical,B,Female,C,A,B,Married,2856,No,1,C,1,0,0,0,3,No
+30,Travel_Rarely,Sales,Medical,B,Male,C,A,D,Single,1081,No,1,B,1,0,0,0,9,Yes
+22,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,B,Single,2472,Yes,1,C,1,0,0,0,7,Yes
+36,Travel_Rarely,Sales,Technical Degree,B,Female,B,B,C,Married,5673,Yes,10,C,10,9,1,7,10,No
+31,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,B,C,Divorced,4197,No,10,C,10,8,0,2,20,No
+34,Travel_Rarely,Sales,Life Sciences,C,Male,C,C,D,Married,9713,Yes,9,C,5,3,1,0,4,No
+29,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,A,Single,2062,No,11,C,3,2,1,2,7,No
+37,Travel_Rarely,Research & Development,Medical,D,Male,C,B,A,Married,4284,Yes,16,C,5,3,0,4,7,No
+35,Travel_Rarely,Research & Development,Other,D,Female,B,B,B,Married,4788,Yes,4,C,3,2,0,2,16,No
+45,Travel_Rarely,Research & Development,Life Sciences,B,Female,B,B,D,Married,5906,No,10,B,9,8,3,8,25,No
+36,Travel_Frequently,Human Resources,Human Resources,B,Male,B,B,D,Single,3886,No,10,B,10,1,0,8,2,No
+40,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,D,A,Divorced,16823,No,22,C,19,7,11,16,1,No
+26,Travel_Rarely,Research & Development,Life Sciences,B,Female,B,A,C,Married,2933,Yes,1,B,1,0,1,0,1,No
+27,Travel_Rarely,Sales,Medical,A,Female,D,B,C,Single,6500,No,9,B,8,7,0,7,2,No
+48,Travel_Frequently,Research & Development,Medical,D,Female,C,D,D,Divorced,17174,No,24,C,22,17,4,7,22,No
+44,Travel_Rarely,Research & Development,Life Sciences,B,Male,D,B,A,Married,5033,No,10,C,2,0,2,2,1,No
+34,Non-Travel,Research & Development,Technical Degree,D,Male,A,A,A,Married,2307,Yes,5,C,5,2,3,0,16,Yes
+56,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,D,Single,2587,No,5,C,4,2,1,0,24,Yes
+36,Travel_Rarely,Sales,Marketing,C,Male,B,B,B,Married,5507,No,12,A,4,2,1,3,17,No
+41,Travel_Rarely,Sales,Marketing,C,Female,C,B,B,Married,4393,No,14,C,5,4,1,4,8,No
+42,Travel_Rarely,Research & Development,Medical,C,Male,C,C,A,Married,13348,No,18,D,13,7,5,7,6,No
+31,Travel_Rarely,Sales,Medical,C,Female,C,B,D,Divorced,6583,Yes,8,C,5,2,1,4,10,No
+34,Travel_Rarely,Sales,Medical,D,Female,B,B,D,Married,8103,Yes,9,B,4,2,0,1,3,No
+31,Travel_Rarely,Research & Development,Medical,A,Female,D,A,C,Divorced,3978,No,4,B,2,2,2,2,4,No
+26,Travel_Frequently,Research & Development,Other,C,Male,D,A,D,Married,2544,No,8,C,7,7,7,7,6,No
+45,Travel_Frequently,Research & Development,Medical,B,Male,C,B,C,Single,5399,No,12,C,4,2,0,3,1,No
+33,Travel_Rarely,Sales,Marketing,B,Male,C,B,C,Single,5487,No,10,B,10,4,0,9,10,No
+28,Travel_Frequently,Sales,Life Sciences,C,Male,B,B,D,Married,6834,Yes,7,C,7,7,0,7,1,No
+29,Travel_Frequently,Sales,Technical Degree,C,Male,D,A,A,Single,1091,No,1,C,1,0,0,0,24,Yes
+39,Non-Travel,Sales,Life Sciences,A,Female,A,B,C,Married,5736,No,10,C,3,2,1,2,21,No
+27,Travel_Rarely,Research & Development,Technical Degree,B,Male,C,A,B,Married,2226,No,6,B,5,3,1,2,2,No
+34,Travel_Frequently,Research & Development,Other,C,Male,B,B,D,Married,5747,Yes,16,C,15,10,6,11,22,No
+28,Travel_Rarely,Sales,Marketing,D,Female,C,B,C,Single,9854,Yes,6,C,2,0,2,2,13,Yes
+47,Non-Travel,Research & Development,Technical Degree,C,Male,C,B,B,Married,5467,No,16,D,8,7,1,7,14,No
+56,Travel_Rarely,Sales,Marketing,D,Female,B,B,A,Married,5380,No,6,C,0,0,0,0,11,No
+39,Travel_Rarely,Research & Development,Medical,A,Male,C,B,A,Married,5151,No,10,C,10,0,7,9,9,No
+38,Travel_Frequently,Research & Development,Medical,D,Female,B,B,B,Divorced,2133,Yes,20,C,20,11,0,7,8,No
+58,Travel_Rarely,Sales,Life Sciences,D,Female,C,D,D,Married,17875,Yes,29,B,1,0,0,0,21,No
+32,Travel_Frequently,Research & Development,Life Sciences,A,Female,D,A,C,Single,2432,Yes,8,C,4,1,0,3,5,Yes
+38,Travel_Rarely,Research & Development,Life Sciences,B,Male,C,A,D,Divorced,4771,No,10,D,5,2,0,3,9,No
+49,Travel_Frequently,Research & Development,Life Sciences,B,Male,C,D,D,Married,19161,No,28,C,5,4,4,3,2,No
+42,Travel_Rarely,Sales,Marketing,B,Male,C,B,D,Divorced,5087,Yes,14,C,0,0,0,0,12,No
+27,Travel_Frequently,Human Resources,Human Resources,A,Female,B,A,B,Married,2863,No,1,C,1,0,0,0,22,Yes
+35,Travel_Rarely,Sales,Medical,B,Male,C,B,A,Married,5561,No,6,A,5,3,0,4,18,No
+28,Non-Travel,Research & Development,Medical,C,Male,C,A,C,Single,2144,No,5,B,5,3,1,4,16,No
+31,Non-Travel,Research & Development,Medical,C,Male,C,A,A,Divorced,3065,Yes,4,D,4,2,2,3,3,No
+36,Non-Travel,Research & Development,Life Sciences,A,Male,D,A,B,Married,2810,No,5,C,5,4,0,2,9,No
+34,Travel_Rarely,Sales,Marketing,A,Male,C,C,D,Single,9888,No,14,B,14,8,2,1,1,No
+34,Travel_Rarely,Sales,Medical,D,Male,C,C,C,Divorced,8628,No,9,B,8,7,1,1,13,No
+26,Travel_Rarely,Research & Development,Medical,C,Male,C,A,A,Single,2867,No,8,B,7,7,7,6,1,No
+29,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,B,A,Married,5373,No,6,B,5,3,0,2,1,No
+32,Non-Travel,Research & Development,Medical,C,Female,C,B,D,Divorced,6667,No,9,C,5,1,1,2,15,No
+31,Travel_Frequently,Research & Development,Life Sciences,D,Male,A,B,A,Married,5003,No,10,C,10,8,8,7,1,No
+28,Travel_Rarely,Research & Development,Technical Degree,C,Male,B,A,D,Divorced,2367,No,6,B,4,1,0,3,17,Yes
+38,Travel_Rarely,Sales,Life Sciences,A,Male,B,A,A,Single,2858,No,20,B,1,0,0,0,1,No
+35,Travel_Rarely,Sales,Life Sciences,C,Female,C,B,D,Married,5204,Yes,10,C,10,8,0,9,7,No
+27,Travel_Rarely,Sales,Marketing,D,Male,C,B,D,Single,4105,No,7,C,7,7,0,7,9,No
+32,Travel_Rarely,Research & Development,Life Sciences,D,Male,B,B,D,Single,9679,No,8,C,1,0,0,0,5,No
+31,Travel_Frequently,Sales,Marketing,A,Male,C,B,D,Married,5617,Yes,10,C,10,7,0,8,26,Yes
+53,Travel_Rarely,Sales,Life Sciences,A,Male,C,C,A,Single,10448,Yes,15,B,2,2,2,2,24,Yes
+54,Travel_Rarely,Research & Development,Life Sciences,A,Female,C,B,C,Married,2897,No,9,B,4,3,2,3,9,No
+33,Travel_Frequently,Research & Development,Life Sciences,D,Male,C,B,C,Divorced,5968,No,9,C,9,7,2,8,7,No
+43,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,C,C,Married,7510,No,10,C,10,9,0,9,11,No
+38,Travel_Frequently,Human Resources,Other,D,Male,C,A,B,Married,2991,Yes,7,C,6,2,1,2,1,No
+55,Travel_Rarely,Human Resources,Human Resources,C,Male,D,D,B,Married,19636,Yes,35,C,10,9,1,4,26,No
+31,Travel_Rarely,Research & Development,Medical,D,Female,A,A,D,Divorced,1129,Yes,1,C,1,0,0,0,2,No
+39,Travel_Rarely,Sales,Marketing,B,Male,C,D,A,Single,13341,No,21,C,20,8,11,10,15,No
+42,Non-Travel,Research & Development,Life Sciences,D,Male,B,B,C,Single,4332,No,20,C,20,9,3,7,23,No
+31,Non-Travel,Research & Development,Medical,C,Female,C,C,C,Married,11031,No,13,D,11,7,4,8,10,No
+54,Travel_Rarely,Research & Development,Medical,C,Female,C,B,A,Single,4440,Yes,9,C,5,2,1,4,10,No
+24,Travel_Rarely,Research & Development,Life Sciences,B,Male,B,B,C,Single,4617,No,4,B,4,3,1,2,1,No
+23,Travel_Rarely,Research & Development,Other,D,Male,C,A,D,Single,2647,No,5,D,5,2,1,4,12,No
+40,Travel_Frequently,Research & Development,Technical Degree,D,Female,C,B,C,Married,6323,No,10,D,10,9,9,4,11,No
+40,Travel_Rarely,Sales,Marketing,B,Female,C,B,B,Married,5677,No,15,C,11,8,5,10,2,No
+25,Travel_Rarely,Human Resources,Human Resources,C,Female,C,A,B,Married,2187,No,6,C,2,0,1,2,2,No
+30,Travel_Rarely,Research & Development,Medical,D,Male,C,A,B,Married,3748,No,12,B,12,8,1,7,1,No
+25,Travel_Rarely,Research & Development,Other,D,Male,C,A,C,Divorced,3977,Yes,7,B,2,2,0,2,2,No
+47,Travel_Rarely,Research & Development,Medical,A,Male,C,C,C,Single,8633,No,25,C,17,14,12,11,25,No
+33,Non-Travel,Research & Development,Medical,B,Male,B,A,C,Divorced,2008,No,1,B,1,1,0,0,1,No
+38,Travel_Rarely,Sales,Life Sciences,D,Male,C,B,B,Married,4440,No,16,C,15,13,5,8,1,No
+31,Travel_Rarely,Sales,Life Sciences,A,Male,C,A,C,Married,3067,No,3,C,2,2,1,2,2,No
+38,Travel_Frequently,Research & Development,Life Sciences,A,Male,B,B,C,Married,5321,No,10,C,8,3,7,7,6,No
+42,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,B,A,Divorced,5410,Yes,9,B,4,3,1,2,18,No
+41,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,D,Married,2782,No,12,C,5,3,1,0,1,No
+47,Non-Travel,Research & Development,Medical,C,Female,C,C,B,Married,11957,No,14,A,13,8,5,12,1,No
+35,Travel_Rarely,Research & Development,Medical,D,Male,C,A,C,Married,2660,Yes,5,C,2,2,2,2,11,No
+22,Travel_Rarely,Research & Development,Life Sciences,D,Male,C,A,C,Single,3375,No,4,D,3,2,1,2,1,No
+35,Travel_Rarely,Research & Development,Medical,B,Male,C,B,C,Single,5098,No,10,C,10,7,0,8,9,No
+33,Travel_Rarely,Research & Development,Medical,B,Female,C,B,D,Married,4878,Yes,10,C,9,7,8,1,15,No
+32,Travel_Rarely,Research & Development,Life Sciences,C,Female,B,A,B,Single,2837,No,6,C,6,2,4,1,29,No
+40,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,A,D,Married,2406,No,8,B,1,0,0,0,1,No
+32,Travel_Rarely,Sales,Medical,B,Male,B,A,B,Married,2269,No,3,C,2,2,2,2,1,No
+39,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,B,D,Single,4108,No,18,C,7,7,1,7,24,No
+38,Travel_Rarely,Research & Development,Medical,B,Female,A,C,C,Married,13206,No,20,C,18,16,1,11,10,No
+32,Travel_Rarely,Sales,Marketing,C,Female,C,C,D,Married,10422,No,14,C,14,10,5,7,1,No
+37,Travel_Rarely,Research & Development,Life Sciences,C,Female,D,C,D,Married,13744,Yes,16,C,16,11,6,8,10,No
+25,Travel_Rarely,Sales,Other,A,Female,C,B,C,Divorced,4907,Yes,6,B,5,3,0,4,8,No
+52,Non-Travel,Sales,Life Sciences,A,Male,C,A,D,Divorced,3482,No,16,B,9,8,0,0,29,No
+44,Travel_Rarely,Research & Development,Medical,B,Male,C,A,D,Single,2436,Yes,6,C,4,3,1,2,1,No
+21,Travel_Rarely,Sales,Medical,C,Male,C,A,A,Single,2380,Yes,2,C,2,2,1,2,5,No
+39,Non-Travel,Research & Development,Life Sciences,D,Male,C,D,D,Single,19431,No,21,B,6,0,1,3,9,No
+23,Travel_Frequently,Sales,Marketing,D,Male,C,A,A,Married,1790,No,1,B,1,0,1,0,9,Yes
+36,Travel_Rarely,Sales,Medical,A,Female,B,C,D,Married,7644,No,10,C,9,7,3,4,3,No
+36,Travel_Frequently,Research & Development,Life Sciences,D,Female,C,B,B,Divorced,5131,No,18,C,4,2,0,2,4,No
+56,Non-Travel,Research & Development,Life Sciences,C,Male,C,B,C,Divorced,6306,No,13,B,13,12,1,9,1,No
+29,Travel_Rarely,Research & Development,Medical,A,Male,C,A,D,Married,4787,Yes,4,D,2,2,2,2,1,Yes
+42,Travel_Rarely,Research & Development,Life Sciences,A,Male,C,D,C,Married,18880,No,24,B,22,6,4,14,2,No
+56,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,A,C,Married,2339,No,14,A,10,9,9,8,7,Yes
+41,Travel_Rarely,Research & Development,Life Sciences,A,Female,B,D,B,Married,13570,No,21,C,20,7,0,10,28,No
+34,Travel_Rarely,Sales,Marketing,D,Female,B,B,C,Married,6712,No,8,C,8,7,1,7,28,No
+36,Non-Travel,Sales,Marketing,D,Male,A,B,D,Divorced,5406,No,15,B,15,12,11,11,15,No
+41,Travel_Rarely,Sales,Life Sciences,C,Male,B,B,B,Divorced,8938,No,14,C,5,4,0,4,3,No
+32,Travel_Rarely,Research & Development,Technical Degree,D,Male,C,A,A,Single,2439,No,4,C,4,2,1,2,2,No
+35,Travel_Rarely,Human Resources,Life Sciences,C,Female,C,C,D,Single,8837,Yes,9,C,9,0,1,7,26,No
+38,Travel_Rarely,Sales,Life Sciences,A,Female,C,B,D,Married,5343,No,10,C,10,7,1,9,10,No
+50,Travel_Frequently,Sales,Life Sciences,B,Male,C,B,C,Divorced,6728,No,12,C,6,3,0,1,1,Yes
+36,Travel_Rarely,Sales,Marketing,B,Female,B,B,D,Married,6652,No,8,B,6,3,0,0,11,No
+45,Travel_Rarely,Sales,Life Sciences,D,Female,C,B,C,Single,4850,No,8,C,5,3,0,1,20,No
+40,Travel_Rarely,Research & Development,Life Sciences,C,Male,B,A,C,Single,2809,No,8,C,2,2,2,2,2,No
+35,Travel_Frequently,Research & Development,Life Sciences,C,Male,C,B,C,Married,5689,Yes,10,D,10,2,0,2,18,No
+40,Travel_Rarely,Research & Development,Medical,C,Female,C,A,C,Married,2001,No,20,C,5,3,0,2,2,No
+35,Travel_Rarely,Research & Development,Life Sciences,C,Female,A,A,D,Married,2977,No,4,C,4,3,1,1,1,No
+29,Travel_Rarely,Research & Development,Other,D,Male,B,B,B,Married,4025,Yes,10,C,4,3,0,3,13,No
+29,Travel_Rarely,Research & Development,Medical,D,Female,B,A,A,Single,3785,No,5,A,5,4,0,4,28,No
+50,Travel_Rarely,Sales,Marketing,D,Male,B,C,A,Divorced,10854,Yes,20,C,3,2,2,0,28,Yes
+39,Travel_Rarely,Sales,Marketing,B,Female,B,D,D,Married,12031,No,21,B,20,9,9,6,24,No
+31,Non-Travel,Research & Development,Medical,B,Male,C,B,A,Single,9936,No,10,C,9,4,1,7,5,No
+26,Travel_Rarely,Sales,Other,D,Female,B,A,C,Single,2966,No,5,C,4,2,0,0,5,No
+36,Travel_Frequently,Research & Development,Medical,C,Male,D,B,D,Married,2571,No,17,C,5,2,0,3,23,No
+39,Travel_Rarely,Research & Development,Medical,D,Male,B,C,A,Married,9991,No,9,C,7,7,1,7,6,No
+27,Travel_Rarely,Research & Development,Life Sciences,B,Male,D,B,B,Married,6142,Yes,6,C,6,2,0,3,4,No
+49,Travel_Frequently,Sales,Medical,D,Male,B,B,B,Married,5390,No,17,B,9,6,0,8,2,No
+34,Travel_Rarely,Research & Development,Medical,B,Male,D,B,C,Married,4404,No,6,D,4,3,1,2,8,No
